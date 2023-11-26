@@ -1,0 +1,1802 @@
+[
+  {
+    "image": "terrorist_97.png",
+    "timestamp": 1701032402.023964,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_46.png",
+    "timestamp": 1701032404.2917829,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_95.png",
+    "timestamp": 1701032406.2825222,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_78.png",
+    "timestamp": 1701032408.031023,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_20.png",
+    "timestamp": 1701032409.961001,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_24.png",
+    "timestamp": 1701032411.790879,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_2.png",
+    "timestamp": 1701032413.660126,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_31.png",
+    "timestamp": 1701032418.3435671,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_40.png",
+    "timestamp": 1701032422.6781719,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_60.png",
+    "timestamp": 1701032424.95966,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_67.png",
+    "timestamp": 1701032427.153075,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_89.png",
+    "timestamp": 1701032429.4541838,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_97.png",
+    "timestamp": 1701032431.403599,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_80.png",
+    "timestamp": 1701032433.669594,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_21.png",
+    "timestamp": 1701032435.4674041,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_8.png",
+    "timestamp": 1701032439.6766798,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_44.png",
+    "timestamp": 1701032443.1016262,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_60.png",
+    "timestamp": 1701032445.143571,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_68.png",
+    "timestamp": 1701032446.876711,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_13.png",
+    "timestamp": 1701032448.675427,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_55.png",
+    "timestamp": 1701032450.884651,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_87.png",
+    "timestamp": 1701032452.841137,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_94.png",
+    "timestamp": 1701032454.9080389,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_54.png",
+    "timestamp": 1701032459.49905,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_65.png",
+    "timestamp": 1701032461.7878458,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_91.png",
+    "timestamp": 1701032463.83058,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_66.png",
+    "timestamp": 1701032465.48383,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_74.png",
+    "timestamp": 1701032469.690839,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_50.png",
+    "timestamp": 1701032471.8341398,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_39.png",
+    "timestamp": 1701032473.440984,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_98.png",
+    "timestamp": 1701032475.247495,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_0.png",
+    "timestamp": 1701032478.263005,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_4.png",
+    "timestamp": 1701032480.280318,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_76.png",
+    "timestamp": 1701032481.868869,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_92.png",
+    "timestamp": 1701032483.587981,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_4.png",
+    "timestamp": 1701032485.97228,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_11.png",
+    "timestamp": 1701032487.955979,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_79.png",
+    "timestamp": 1701032489.7986162,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_87.png",
+    "timestamp": 1701032491.6276648,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_15.png",
+    "timestamp": 1701032500.3275032,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_71.png",
+    "timestamp": 1701032508.5918899,
+    "worker": "Duy T",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "inmate_31.png",
+    "timestamp": 1701032510.87919,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_35.png",
+    "timestamp": 1701032515.187762,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_37.png",
+    "timestamp": 1701032576.011164,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_94.png",
+    "timestamp": 1701032578.020591,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_5.png",
+    "timestamp": 1701032579.853877,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_47.png",
+    "timestamp": 1701032581.3894668,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_25.png",
+    "timestamp": 1701032598.025589,
+    "worker": "Duy T",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "inmate_86.png",
+    "timestamp": 1701032600.03722,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_51.png",
+    "timestamp": 1701032601.8990211,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_83.png",
+    "timestamp": 1701032696.773343,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_76.png",
+    "timestamp": 1701032698.758504,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_41.png",
+    "timestamp": 1701032700.6581519,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_70.png",
+    "timestamp": 1701032702.401449,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_3.png",
+    "timestamp": 1701032703.96812,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_92.png",
+    "timestamp": 1701032705.632349,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_1.png",
+    "timestamp": 1701032709.960763,
+    "worker": "Duy T",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "drug_dealer_52.png",
+    "timestamp": 1701032712.070852,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_23.png",
+    "timestamp": 1701032713.9421818,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_95.png",
+    "timestamp": 1701032715.805808,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_38.png",
+    "timestamp": 1701032718.649612,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_96.png",
+    "timestamp": 1701032720.552263,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_0.png",
+    "timestamp": 1701032722.366441,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_88.png",
+    "timestamp": 1701032724.232099,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_11.png",
+    "timestamp": 1701032726.022431,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_6.png",
+    "timestamp": 1701032728.292073,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_22.png",
+    "timestamp": 1701032731.4946291,
+    "worker": "Duy T",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "drug_dealer_69.png",
+    "timestamp": 1701032734.603105,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_62.png",
+    "timestamp": 1701032737.1109939,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_98.png",
+    "timestamp": 1701032738.824291,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_88.png",
+    "timestamp": 1701032747.830074,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_27.png",
+    "timestamp": 1701032749.8319092,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_78.png",
+    "timestamp": 1701032751.6971672,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_64.png",
+    "timestamp": 1701032753.360768,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_94.png",
+    "timestamp": 1701032755.075854,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_55.png",
+    "timestamp": 1701032756.91773,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_70.png",
+    "timestamp": 1701032758.7799628,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_90.png",
+    "timestamp": 1701032761.416657,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_73.png",
+    "timestamp": 1701032763.509044,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_30.png",
+    "timestamp": 1701032765.2631412,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_67.png",
+    "timestamp": 1701032766.863429,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_3.png",
+    "timestamp": 1701032768.643279,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_6.png",
+    "timestamp": 1701032770.977209,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_83.png",
+    "timestamp": 1701032773.069199,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_27.png",
+    "timestamp": 1701032775.175402,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_54.png",
+    "timestamp": 1701032776.760941,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_62.png",
+    "timestamp": 1701032778.2114859,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_61.png",
+    "timestamp": 1701032779.941216,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_55.png",
+    "timestamp": 1701032781.7498372,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_59.png",
+    "timestamp": 1701032783.5660539,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_77.png",
+    "timestamp": 1701032785.4619908,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_19.png",
+    "timestamp": 1701032787.9314408,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_48.png",
+    "timestamp": 1701032789.9494,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_52.png",
+    "timestamp": 1701032791.818309,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_27.png",
+    "timestamp": 1701032795.517212,
+    "worker": "Duy T",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "terrorist_36.png",
+    "timestamp": 1701032839.453435,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_23.png",
+    "timestamp": 1701032841.948597,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_36.png",
+    "timestamp": 1701032843.629345,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_16.png",
+    "timestamp": 1701032845.22221,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_47.png",
+    "timestamp": 1701032846.709929,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_17.png",
+    "timestamp": 1701032848.4210691,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_48.png",
+    "timestamp": 1701032850.831115,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_91.png",
+    "timestamp": 1701032852.494143,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_40.png",
+    "timestamp": 1701032853.989086,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_42.png",
+    "timestamp": 1701032855.596491,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_59.png",
+    "timestamp": 1701032857.4970849,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_60.png",
+    "timestamp": 1701032859.1219342,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_64.png",
+    "timestamp": 1701032860.6484008,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_26.png",
+    "timestamp": 1701032862.675476,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_77.png",
+    "timestamp": 1701032864.221754,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_96.png",
+    "timestamp": 1701032865.958709,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_58.png",
+    "timestamp": 1701032867.66272,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_50.png",
+    "timestamp": 1701032869.164449,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_50.png",
+    "timestamp": 1701032871.766641,
+    "worker": "Duy T",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "drug_dealer_34.png",
+    "timestamp": 1701032873.587729,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_84.png",
+    "timestamp": 1701032875.170762,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_56.png",
+    "timestamp": 1701032876.7649632,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_32.png",
+    "timestamp": 1701032882.066565,
+    "worker": "Duy T",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "inmate_77.png",
+    "timestamp": 1701032884.281174,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_51.png",
+    "timestamp": 1701032885.887406,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_75.png",
+    "timestamp": 1701032887.460783,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_44.png",
+    "timestamp": 1701032889.134929,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_53.png",
+    "timestamp": 1701032890.652312,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_58.png",
+    "timestamp": 1701032892.214453,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_0.png",
+    "timestamp": 1701032893.820632,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_93.png",
+    "timestamp": 1701032895.320958,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_61.png",
+    "timestamp": 1701032896.877037,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_19.png",
+    "timestamp": 1701032899.738553,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_39.png",
+    "timestamp": 1701032902.628674,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_30.png",
+    "timestamp": 1701032904.435452,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_75.png",
+    "timestamp": 1701032906.616225,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_16.png",
+    "timestamp": 1701032908.521993,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_61.png",
+    "timestamp": 1701032910.05364,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_1.png",
+    "timestamp": 1701032911.572271,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_98.png",
+    "timestamp": 1701032913.041368,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_74.png",
+    "timestamp": 1701032914.566218,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_72.png",
+    "timestamp": 1701032916.3947861,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_45.png",
+    "timestamp": 1701032918.650003,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_21.png",
+    "timestamp": 1701032920.835559,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_29.png",
+    "timestamp": 1701032922.4727721,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_17.png",
+    "timestamp": 1701032926.236277,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_85.png",
+    "timestamp": 1701032927.993238,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_13.png",
+    "timestamp": 1701032930.215654,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_89.png",
+    "timestamp": 1701032932.090037,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_42.png",
+    "timestamp": 1701032933.659592,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_73.png",
+    "timestamp": 1701032936.4232378,
+    "worker": "Duy T",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "terrorist_9.png",
+    "timestamp": 1701032938.0558689,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_20.png",
+    "timestamp": 1701032940.737956,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_35.png",
+    "timestamp": 1701032942.5609238,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_41.png",
+    "timestamp": 1701032944.187571,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_33.png",
+    "timestamp": 1701032946.206511,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_6.png",
+    "timestamp": 1701032947.7698581,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_15.png",
+    "timestamp": 1701032949.4628851,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_80.png",
+    "timestamp": 1701032950.9638221,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_56.png",
+    "timestamp": 1701032952.728702,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_57.png",
+    "timestamp": 1701032954.2958221,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_9.png",
+    "timestamp": 1701032957.850466,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_37.png",
+    "timestamp": 1701032959.569174,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_10.png",
+    "timestamp": 1701032962.159196,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_83.png",
+    "timestamp": 1701032964.421692,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_76.png",
+    "timestamp": 1701032966.369091,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_65.png",
+    "timestamp": 1701032967.8835242,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_97.png",
+    "timestamp": 1701032969.398002,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_99.png",
+    "timestamp": 1701032970.865525,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_4.png",
+    "timestamp": 1701032972.585943,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_8.png",
+    "timestamp": 1701032974.321609,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_14.png",
+    "timestamp": 1701032981.982005,
+    "worker": "Duy T",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "terrorist_7.png",
+    "timestamp": 1701032984.0378911,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_10.png",
+    "timestamp": 1701032985.676448,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_84.png",
+    "timestamp": 1701032987.183525,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_29.png",
+    "timestamp": 1701032988.7597382,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_81.png",
+    "timestamp": 1701032991.2882822,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_22.png",
+    "timestamp": 1701032994.0781498,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_13.png",
+    "timestamp": 1701032995.7635598,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_32.png",
+    "timestamp": 1701032997.389621,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_70.png",
+    "timestamp": 1701032999.009977,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_43.png",
+    "timestamp": 1701033000.529227,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_14.png",
+    "timestamp": 1701033002.816832,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_26.png",
+    "timestamp": 1701033004.204375,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_86.png",
+    "timestamp": 1701033005.666951,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_62.png",
+    "timestamp": 1701033007.2709918,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_72.png",
+    "timestamp": 1701033008.901022,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_2.png",
+    "timestamp": 1701033010.465205,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_5.png",
+    "timestamp": 1701033011.8858602,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_41.png",
+    "timestamp": 1701033013.3588438,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_45.png",
+    "timestamp": 1701033015.220425,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_82.png",
+    "timestamp": 1701033017.279902,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_49.png",
+    "timestamp": 1701033019.333386,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_17.png",
+    "timestamp": 1701033020.8777332,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_68.png",
+    "timestamp": 1701033023.1077209,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_81.png",
+    "timestamp": 1701033024.834937,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_28.png",
+    "timestamp": 1701033026.541708,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_20.png",
+    "timestamp": 1701033032.7338219,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_23.png",
+    "timestamp": 1701033034.533772,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_52.png",
+    "timestamp": 1701033036.089756,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_84.png",
+    "timestamp": 1701033037.634696,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_18.png",
+    "timestamp": 1701033039.2942069,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_46.png",
+    "timestamp": 1701033041.08365,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_66.png",
+    "timestamp": 1701033042.5993578,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_64.png",
+    "timestamp": 1701033044.1192489,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_99.png",
+    "timestamp": 1701033045.817301,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_68.png",
+    "timestamp": 1701033047.509536,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_5.png",
+    "timestamp": 1701033049.2720551,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_63.png",
+    "timestamp": 1701033051.0135071,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_79.png",
+    "timestamp": 1701033052.354357,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_28.png",
+    "timestamp": 1701033053.8900118,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_78.png",
+    "timestamp": 1701033055.6243541,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_80.png",
+    "timestamp": 1701033057.1949718,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_31.png",
+    "timestamp": 1701033058.7571342,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_43.png",
+    "timestamp": 1701033060.612162,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_40.png",
+    "timestamp": 1701033062.2993448,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_24.png",
+    "timestamp": 1701033063.961238,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_67.png",
+    "timestamp": 1701033065.474249,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_15.png",
+    "timestamp": 1701033075.1437922,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_12.png",
+    "timestamp": 1701033077.0487192,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_73.png",
+    "timestamp": 1701033079.253463,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_19.png",
+    "timestamp": 1701033081.125323,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_88.png",
+    "timestamp": 1701033083.483456,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_63.png",
+    "timestamp": 1701033085.251683,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_34.png",
+    "timestamp": 1701033087.032938,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_14.png",
+    "timestamp": 1701033089.495383,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_7.png",
+    "timestamp": 1701033092.8795068,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_71.png",
+    "timestamp": 1701033094.683218,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_48.png",
+    "timestamp": 1701033097.568064,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_82.png",
+    "timestamp": 1701033099.2136052,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_72.png",
+    "timestamp": 1701033104.624755,
+    "worker": "Duy T",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "inmate_9.png",
+    "timestamp": 1701033106.4567108,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_90.png",
+    "timestamp": 1701033108.1151638,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_66.png",
+    "timestamp": 1701033109.6580229,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_79.png",
+    "timestamp": 1701033111.121069,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_33.png",
+    "timestamp": 1701033112.778888,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_63.png",
+    "timestamp": 1701033114.504586,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_2.png",
+    "timestamp": 1701033116.335784,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_74.png",
+    "timestamp": 1701033118.4305532,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_51.png",
+    "timestamp": 1701033120.234931,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_18.png",
+    "timestamp": 1701033121.889867,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_21.png",
+    "timestamp": 1701033123.4022348,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_85.png",
+    "timestamp": 1701033124.96736,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_39.png",
+    "timestamp": 1701033126.8069918,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_89.png",
+    "timestamp": 1701033128.70189,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_38.png",
+    "timestamp": 1701033130.337208,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_29.png",
+    "timestamp": 1701033132.1595871,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_59.png",
+    "timestamp": 1701033133.824636,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_81.png",
+    "timestamp": 1701033135.70453,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_95.png",
+    "timestamp": 1701033139.9022279,
+    "worker": "Duy T",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "drug_dealer_7.png",
+    "timestamp": 1701033146.770844,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_37.png",
+    "timestamp": 1701033148.318676,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_54.png",
+    "timestamp": 1701033150.083124,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_25.png",
+    "timestamp": 1701033151.90368,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_45.png",
+    "timestamp": 1701033154.055203,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_28.png",
+    "timestamp": 1701033155.9772842,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_25.png",
+    "timestamp": 1701033158.8549519,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_69.png",
+    "timestamp": 1701033160.384576,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_93.png",
+    "timestamp": 1701033161.9553092,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_85.png",
+    "timestamp": 1701033164.33972,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_46.png",
+    "timestamp": 1701033166.121723,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_75.png",
+    "timestamp": 1701033168.09427,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_12.png",
+    "timestamp": 1701033172.165071,
+    "worker": "Duy T",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "drug_dealer_26.png",
+    "timestamp": 1701033173.8940642,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_36.png",
+    "timestamp": 1701033175.747822,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_30.png",
+    "timestamp": 1701033177.585112,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_12.png",
+    "timestamp": 1701033180.0319722,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_1.png",
+    "timestamp": 1701033181.650849,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_69.png",
+    "timestamp": 1701033183.8507462,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_47.png",
+    "timestamp": 1701033185.943988,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_49.png",
+    "timestamp": 1701033187.5789068,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_24.png",
+    "timestamp": 1701033189.41781,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_38.png",
+    "timestamp": 1701033191.126894,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_91.png",
+    "timestamp": 1701033192.62235,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_57.png",
+    "timestamp": 1701033194.409958,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_90.png",
+    "timestamp": 1701033196.053091,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_43.png",
+    "timestamp": 1701033197.569602,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_56.png",
+    "timestamp": 1701033199.403695,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_34.png",
+    "timestamp": 1701033201.063715,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_58.png",
+    "timestamp": 1701033202.729024,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_65.png",
+    "timestamp": 1701033204.27355,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_92.png",
+    "timestamp": 1701033205.976237,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_3.png",
+    "timestamp": 1701033207.441793,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_10.png",
+    "timestamp": 1701033208.9713411,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_53.png",
+    "timestamp": 1701033210.946082,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_82.png",
+    "timestamp": 1701033212.474199,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_86.png",
+    "timestamp": 1701033214.086476,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_99.png",
+    "timestamp": 1701033215.5185652,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_96.png",
+    "timestamp": 1701033216.933223,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_44.png",
+    "timestamp": 1701033218.50865,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_16.png",
+    "timestamp": 1701033219.933911,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_93.png",
+    "timestamp": 1701033223.941649,
+    "worker": "Duy T",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "inmate_49.png",
+    "timestamp": 1701033225.76912,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "terrorist_33.png",
+    "timestamp": 1701033228.626213,
+    "worker": "Duy T",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "terrorist_57.png",
+    "timestamp": 1701033231.918806,
+    "worker": "Duy T",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "terrorist_18.png",
+    "timestamp": 1701033233.945816,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_22.png",
+    "timestamp": 1701033235.792522,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_42.png",
+    "timestamp": 1701033237.814674,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "drug_dealer_8.png",
+    "timestamp": 1701033239.763328,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_71.png",
+    "timestamp": 1701033241.812723,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_35.png",
+    "timestamp": 1701033243.3994188,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_32.png",
+    "timestamp": 1701033245.607949,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_11.png",
+    "timestamp": 1701033249.812783,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_87.png",
+    "timestamp": 1701033251.536664,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "inmate_53.png",
+    "timestamp": 1701033253.115852,
+    "worker": "Duy T",
+    "labels": ["men (S)"]
+  }
+]
