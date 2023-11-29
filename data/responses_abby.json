@@ -1,1 +1,4202 @@
-[{"image": "teacher_6.png", "timestamp": 1701040137.952524, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_38.png", "timestamp": 1701040171.0986292, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_14.png", "timestamp": 1701040174.589688, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_17.png", "timestamp": 1701040176.56329, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_86.png", "timestamp": 1701040182.6533718, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_39.png", "timestamp": 1701040184.7887528, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_65.png", "timestamp": 1701040203.2029881, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_19.png", "timestamp": 1701040239.8244312, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_75.png", "timestamp": 1701040242.865552, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_54.png", "timestamp": 1701040267.90911, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "farmer_47.png", "timestamp": 1701040287.136332, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_23.png", "timestamp": 1701040293.383914, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_73.png", "timestamp": 1701040295.255945, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_78.png", "timestamp": 1701040296.948938, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_10.png", "timestamp": 1701040301.269064, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_26.png", "timestamp": 1701040312.478715, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_37.png", "timestamp": 1701040361.288107, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_51.png", "timestamp": 1701040363.702869, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_72.png", "timestamp": 1701040365.92723, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_34.png", "timestamp": 1701040369.472237, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_47.png", "timestamp": 1701040372.735929, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_92.png", "timestamp": 1701040375.088756, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_73.png", "timestamp": 1701040377.4697301, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_71.png", "timestamp": 1701040379.8712451, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_21.png", "timestamp": 1701040381.828966, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_4.png", "timestamp": 1701040394.208698, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_85.png", "timestamp": 1701040396.547325, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_37.png", "timestamp": 1701040399.734755, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_11.png", "timestamp": 1701040402.386462, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_36.png", "timestamp": 1701040404.172704, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_13.png", "timestamp": 1701040407.275242, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_8.png", "timestamp": 1701040409.249376, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_57.png", "timestamp": 1701040411.389911, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_10.png", "timestamp": 1701040413.079288, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_88.png", "timestamp": 1701040420.395016, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_96.png", "timestamp": 1701040422.7002711, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_45.png", "timestamp": 1701040424.507209, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_43.png", "timestamp": 1701040444.695574, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_77.png", "timestamp": 1701040446.437981, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_56.png", "timestamp": 1701040448.004221, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_97.png", "timestamp": 1701040449.560645, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_3.png", "timestamp": 1701040452.988561, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_14.png", "timestamp": 1701040454.896526, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_87.png", "timestamp": 1701040456.675563, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_11.png", "timestamp": 1701040461.194239, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_98.png", "timestamp": 1701040481.661815, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_86.png", "timestamp": 1701040502.876775, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_77.png", "timestamp": 1701040508.27526, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_81.png", "timestamp": 1701040510.830956, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_74.png", "timestamp": 1701040512.3146088, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_74.png", "timestamp": 1701040514.432679, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_51.png", "timestamp": 1701040531.82372, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_45.png", "timestamp": 1701040535.973834, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_23.png", "timestamp": 1701040537.674177, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_67.png", "timestamp": 1701040543.5447838, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_87.png", "timestamp": 1701040560.663149, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_27.png", "timestamp": 1701040562.6300879, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_61.png", "timestamp": 1701040564.940864, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_14.png", "timestamp": 1701040566.7416909, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_52.png", "timestamp": 1701040573.407941, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "teacher_57.png", "timestamp": 1701040575.49148, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_40.png", "timestamp": 1701040577.058772, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_44.png", "timestamp": 1701040580.199608, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_30.png", "timestamp": 1701040583.124774, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_38.png", "timestamp": 1701040584.6801112, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_13.png", "timestamp": 1701040586.675787, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_95.png", "timestamp": 1701040588.243178, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_34.png", "timestamp": 1701040591.5069098, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_59.png", "timestamp": 1701040603.83465, "worker": "Abigail W", "labels": ["men (S)", "unclear (F)"]}, {"image": "construction_worker_51.png", "timestamp": 1701040607.279419, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_28.png", "timestamp": 1701040609.604579, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "cashier_25.png", "timestamp": 1701040611.940586, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_15.png", "timestamp": 1701040614.064678, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_52.png", "timestamp": 1701040616.39779, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_59.png", "timestamp": 1701040620.578538, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "teacher_63.png", "timestamp": 1701040624.6465018, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_32.png", "timestamp": 1701040626.399925, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_34.png", "timestamp": 1701040629.1554759, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_3.png", "timestamp": 1701040631.485676, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_83.png", "timestamp": 1701040633.3045208, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_1.png", "timestamp": 1701040635.375339, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_76.png", "timestamp": 1701040637.044213, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_38.png", "timestamp": 1701040642.255174, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_72.png", "timestamp": 1701040757.482049, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_4.png", "timestamp": 1701040763.421827, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_86.png", "timestamp": 1701040770.540561, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_89.png", "timestamp": 1701040778.5029628, "worker": "Abigail W", "labels": ["men (S)", "unclear (F)"]}, {"image": "teacher_98.png", "timestamp": 1701040781.684063, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "teacher_71.png", "timestamp": 1701040783.977416, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_91.png", "timestamp": 1701208171.484888, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_45.png", "timestamp": 1701208174.374031, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_62.png", "timestamp": 1701208176.053596, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_57.png", "timestamp": 1701208177.511195, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_7.png", "timestamp": 1701208178.761594, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_35.png", "timestamp": 1701208182.109571, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_12.png", "timestamp": 1701208183.951482, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_43.png", "timestamp": 1701208185.793921, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_91.png", "timestamp": 1701208188.928235, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_38.png", "timestamp": 1701208193.615533, "worker": "Abigail W", "labels": ["men (S)", "unclear (F)"]}, {"image": "farmer_88.png", "timestamp": 1701208195.2210188, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_58.png", "timestamp": 1701208202.157145, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "teacher_25.png", "timestamp": 1701208204.05584, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_6.png", "timestamp": 1701208205.734891, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_48.png", "timestamp": 1701208207.479536, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_71.png", "timestamp": 1701208209.0384152, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_71.png", "timestamp": 1701208210.696049, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_24.png", "timestamp": 1701208212.1795, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_67.png", "timestamp": 1701208213.5680509, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_5.png", "timestamp": 1701208215.0263429, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_37.png", "timestamp": 1701208216.999671, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_31.png", "timestamp": 1701208221.766571, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_81.png", "timestamp": 1701208223.1526458, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_1.png", "timestamp": 1701208224.671385, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_48.png", "timestamp": 1701208226.218763, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_16.png", "timestamp": 1701208227.700489, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_4.png", "timestamp": 1701208228.939557, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_15.png", "timestamp": 1701208230.132859, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_89.png", "timestamp": 1701208232.4198442, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_90.png", "timestamp": 1701208234.0166788, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_6.png", "timestamp": 1701208235.718066, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_9.png", "timestamp": 1701208237.984767, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_93.png", "timestamp": 1701208239.619086, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_10.png", "timestamp": 1701208241.0363278, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "teacher_56.png", "timestamp": 1701208245.9493709, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_34.png", "timestamp": 1701208249.639176, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "teacher_67.png", "timestamp": 1701208251.6507351, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_35.png", "timestamp": 1701208253.256563, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_22.png", "timestamp": 1701208254.796489, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_29.png", "timestamp": 1701208256.366273, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_40.png", "timestamp": 1701208258.0504801, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_58.png", "timestamp": 1701208259.412898, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_45.png", "timestamp": 1701208261.198713, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_77.png", "timestamp": 1701208262.495383, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_3.png", "timestamp": 1701208264.124207, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_72.png", "timestamp": 1701208265.440066, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_9.png", "timestamp": 1701208266.814996, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_75.png", "timestamp": 1701208268.344994, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_84.png", "timestamp": 1701208271.1973062, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_67.png", "timestamp": 1701208272.747529, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_44.png", "timestamp": 1701208275.418485, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_70.png", "timestamp": 1701208278.447238, "worker": "Abigail W", "labels": ["women (A)", "unclear (F)"]}, {"image": "fast food_worker_16.png", "timestamp": 1701208280.66407, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "teacher_97.png", "timestamp": 1701208282.7768068, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_82.png", "timestamp": 1701208285.966885, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_27.png", "timestamp": 1701208287.4528031, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_94.png", "timestamp": 1701208294.185226, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "cashier_78.png", "timestamp": 1701208296.1592162, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_99.png", "timestamp": 1701208299.23295, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_92.png", "timestamp": 1701208306.203151, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_47.png", "timestamp": 1701208308.5705652, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_12.png", "timestamp": 1701208310.3380322, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_73.png", "timestamp": 1701208313.3710048, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "police_officer_65.png", "timestamp": 1701208315.380773, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_51.png", "timestamp": 1701208326.004647, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_51.png", "timestamp": 1701208334.3444889, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_55.png", "timestamp": 1701208336.016484, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_66.png", "timestamp": 1701208337.9143958, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_1.png", "timestamp": 1701208340.078955, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_65.png", "timestamp": 1701208341.6393359, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_58.png", "timestamp": 1701208343.4982882, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_41.png", "timestamp": 1701208345.0080562, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_89.png", "timestamp": 1701208346.259273, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_82.png", "timestamp": 1701208347.6175842, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_50.png", "timestamp": 1701208349.9772658, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_31.png", "timestamp": 1701208351.5644002, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_96.png", "timestamp": 1701208353.603621, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_72.png", "timestamp": 1701208356.475372, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_64.png", "timestamp": 1701208357.879092, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_86.png", "timestamp": 1701208359.026963, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_79.png", "timestamp": 1701208362.848894, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "police_officer_30.png", "timestamp": 1701208366.79773, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_33.png", "timestamp": 1701208372.807253, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_79.png", "timestamp": 1701208374.740843, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_53.png", "timestamp": 1701208376.43761, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_97.png", "timestamp": 1701208377.7450838, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_6.png", "timestamp": 1701208380.269996, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "teacher_19.png", "timestamp": 1701208381.782629, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_64.png", "timestamp": 1701208383.851954, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_18.png", "timestamp": 1701208385.332351, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_70.png", "timestamp": 1701208387.075327, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_98.png", "timestamp": 1701208389.486672, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_21.png", "timestamp": 1701208399.1771588, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_12.png", "timestamp": 1701208415.674834, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "construction_worker_92.png", "timestamp": 1701208418.430325, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_7.png", "timestamp": 1701208426.4600189, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_2.png", "timestamp": 1701214370.103173, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "construction_worker_4.png", "timestamp": 1701214373.1623209, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_74.png", "timestamp": 1701214374.824354, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_79.png", "timestamp": 1701214376.168244, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_36.png", "timestamp": 1701214378.915315, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_20.png", "timestamp": 1701214380.347872, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_97.png", "timestamp": 1701214384.126482, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_5.png", "timestamp": 1701214387.112587, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_52.png", "timestamp": 1701214388.492199, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_26.png", "timestamp": 1701214389.9240901, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_32.png", "timestamp": 1701214391.783131, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_59.png", "timestamp": 1701214393.234855, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_16.png", "timestamp": 1701214394.581333, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_73.png", "timestamp": 1701214411.388711, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "farmer_44.png", "timestamp": 1701214413.40968, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_47.png", "timestamp": 1701214417.459508, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_74.png", "timestamp": 1701214419.0793111, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_82.png", "timestamp": 1701214420.4870489, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_61.png", "timestamp": 1701214421.8628411, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_50.png", "timestamp": 1701214423.1582909, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_20.png", "timestamp": 1701214434.263906, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_42.png", "timestamp": 1701214436.3761458, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_73.png", "timestamp": 1701214437.7918541, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_56.png", "timestamp": 1701214439.087643, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_0.png", "timestamp": 1701214442.594218, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_25.png", "timestamp": 1701214562.215242, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "teacher_11.png", "timestamp": 1701214565.46539, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_91.png", "timestamp": 1701214566.8971012, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_11.png", "timestamp": 1701214568.5376372, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_56.png", "timestamp": 1701214570.207157, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_76.png", "timestamp": 1701214572.211216, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_23.png", "timestamp": 1701214573.543455, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_44.png", "timestamp": 1701214574.821864, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_54.png", "timestamp": 1701214576.106312, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_41.png", "timestamp": 1701214588.687974, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "police_officer_88.png", "timestamp": 1701214590.515702, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_1.png", "timestamp": 1701214592.6272929, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_21.png", "timestamp": 1701214598.460216, "worker": "Abigail W", "labels": ["men (S)", "unclear (F)"]}, {"image": "farmer_69.png", "timestamp": 1701214600.1896782, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_85.png", "timestamp": 1701214601.913307, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_58.png", "timestamp": 1701214603.503637, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_95.png", "timestamp": 1701214605.8090408, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_93.png", "timestamp": 1701214645.803553, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "police_officer_94.png", "timestamp": 1701214648.026787, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_93.png", "timestamp": 1701214649.415267, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_2.png", "timestamp": 1701214651.979773, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_7.png", "timestamp": 1701214653.454319, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_42.png", "timestamp": 1701214661.350739, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_72.png", "timestamp": 1701214663.212609, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_75.png", "timestamp": 1701214665.1280599, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_85.png", "timestamp": 1701214668.282326, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_16.png", "timestamp": 1701214669.606008, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_55.png", "timestamp": 1701214672.037528, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_13.png", "timestamp": 1701214683.590066, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_50.png", "timestamp": 1701214686.54904, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_5.png", "timestamp": 1701214700.369668, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_92.png", "timestamp": 1701214704.4311922, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "police_officer_28.png", "timestamp": 1701214708.271431, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_68.png", "timestamp": 1701214711.3878348, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_99.png", "timestamp": 1701214714.637857, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_2.png", "timestamp": 1701214716.001069, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_46.png", "timestamp": 1701214717.4570408, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_98.png", "timestamp": 1701214718.7654731, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_37.png", "timestamp": 1701214720.5855381, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_66.png", "timestamp": 1701214722.0267289, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_82.png", "timestamp": 1701214744.2239208, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_25.png", "timestamp": 1701214754.7641191, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_37.png", "timestamp": 1701214756.639551, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_28.png", "timestamp": 1701214758.115985, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_84.png", "timestamp": 1701214761.5518248, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_60.png", "timestamp": 1701214763.71929, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_49.png", "timestamp": 1701214764.9341471, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_31.png", "timestamp": 1701214770.199543, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_22.png", "timestamp": 1701214771.6023428, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_40.png", "timestamp": 1701214793.182625, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_38.png", "timestamp": 1701214796.469692, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_65.png", "timestamp": 1701214797.872389, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_53.png", "timestamp": 1701214799.717289, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_79.png", "timestamp": 1701214801.2516742, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_16.png", "timestamp": 1701214802.974487, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_53.png", "timestamp": 1701214823.4175858, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "police_officer_12.png", "timestamp": 1701214825.534467, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_10.png", "timestamp": 1701214826.896804, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_18.png", "timestamp": 1701214828.21839, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_51.png", "timestamp": 1701214829.5537071, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_42.png", "timestamp": 1701214830.9209259, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_87.png", "timestamp": 1701214832.1983979, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_95.png", "timestamp": 1701214834.750907, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_55.png", "timestamp": 1701214837.401669, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_22.png", "timestamp": 1701214838.9172711, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_6.png", "timestamp": 1701214847.149929, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_39.png", "timestamp": 1701214848.549956, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_15.png", "timestamp": 1701214859.586694, "worker": "Abigail W", "labels": ["children (D)"]}, {"image": "teacher_94.png", "timestamp": 1701214861.4495301, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_54.png", "timestamp": 1701214863.133183, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_82.png", "timestamp": 1701214864.282364, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_57.png", "timestamp": 1701214865.6914802, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_36.png", "timestamp": 1701214875.406271, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_23.png", "timestamp": 1701214876.801863, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_93.png", "timestamp": 1701214878.151894, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_49.png", "timestamp": 1701214880.2504451, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "teacher_28.png", "timestamp": 1701214883.183573, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_92.png", "timestamp": 1701214885.618037, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_47.png", "timestamp": 1701214887.032844, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_60.png", "timestamp": 1701214888.8861032, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_63.png", "timestamp": 1701214890.582915, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_56.png", "timestamp": 1701214892.104587, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_8.png", "timestamp": 1701214893.657127, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_22.png", "timestamp": 1701214897.768044, "worker": "Abigail W", "labels": ["men (S)", "unclear (F)"]}, {"image": "janitor_90.png", "timestamp": 1701214899.60129, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_25.png", "timestamp": 1701214901.150968, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_41.png", "timestamp": 1701214902.7339652, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_0.png", "timestamp": 1701214904.318615, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_34.png", "timestamp": 1701214907.243258, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_76.png", "timestamp": 1701214908.420091, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_57.png", "timestamp": 1701214910.119074, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_96.png", "timestamp": 1701214911.861644, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_18.png", "timestamp": 1701214916.515918, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_27.png", "timestamp": 1701214917.7276711, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_31.png", "timestamp": 1701214919.325943, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_40.png", "timestamp": 1701214922.7003179, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_17.png", "timestamp": 1701214926.278985, "worker": "Abigail W", "labels": ["men (S)", "unclear (F)"]}, {"image": "farmer_93.png", "timestamp": 1701214928.768918, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_48.png", "timestamp": 1701214930.718875, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_18.png", "timestamp": 1701214933.066633, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_64.png", "timestamp": 1701214935.223787, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_75.png", "timestamp": 1701214937.717036, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_42.png", "timestamp": 1701214939.1513212, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_60.png", "timestamp": 1701214940.4735339, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_85.png", "timestamp": 1701214941.8808372, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_19.png", "timestamp": 1701214945.033628, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_60.png", "timestamp": 1701214946.571289, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_88.png", "timestamp": 1701214948.854614, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_9.png", "timestamp": 1701214950.352777, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_20.png", "timestamp": 1701214956.175145, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "farmer_83.png", "timestamp": 1701214957.506036, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_9.png", "timestamp": 1701214959.8032398, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_41.png", "timestamp": 1701214961.469366, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_79.png", "timestamp": 1701214962.6686752, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_43.png", "timestamp": 1701214964.5583968, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_22.png", "timestamp": 1701214966.413431, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_49.png", "timestamp": 1701214974.235743, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_15.png", "timestamp": 1701214977.336973, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_23.png", "timestamp": 1701214978.809959, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_69.png", "timestamp": 1701214981.173407, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_4.png", "timestamp": 1701214982.60741, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_27.png", "timestamp": 1701214984.078209, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_15.png", "timestamp": 1701214985.414665, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_14.png", "timestamp": 1701214987.684862, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_88.png", "timestamp": 1701214991.010179, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_67.png", "timestamp": 1701214995.483763, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_89.png", "timestamp": 1701215002.428431, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_13.png", "timestamp": 1701215004.2569249, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_53.png", "timestamp": 1701215005.926282, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_99.png", "timestamp": 1701215007.755369, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_44.png", "timestamp": 1701215009.593031, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_41.png", "timestamp": 1701215010.989577, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_34.png", "timestamp": 1701215012.467896, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_63.png", "timestamp": 1701215014.0002089, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_82.png", "timestamp": 1701215015.723181, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_46.png", "timestamp": 1701215019.069399, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_70.png", "timestamp": 1701215028.2277608, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_6.png", "timestamp": 1701215029.789203, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_4.png", "timestamp": 1701215031.0851562, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_39.png", "timestamp": 1701215034.034131, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "teacher_78.png", "timestamp": 1701215035.4189372, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_76.png", "timestamp": 1701215036.853004, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_83.png", "timestamp": 1701215038.902314, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "construction_worker_68.png", "timestamp": 1701215040.752209, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_66.png", "timestamp": 1701215048.7279449, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_78.png", "timestamp": 1701215050.221544, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_77.png", "timestamp": 1701215051.70293, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_28.png", "timestamp": 1701215052.905171, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_56.png", "timestamp": 1701215054.278729, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_48.png", "timestamp": 1701215055.838826, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_19.png", "timestamp": 1701215057.168266, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_6.png", "timestamp": 1701215058.684886, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_89.png", "timestamp": 1701215060.4869602, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_37.png", "timestamp": 1701215061.75522, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_81.png", "timestamp": 1701215063.118554, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_46.png", "timestamp": 1701215078.235347, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "farmer_27.png", "timestamp": 1701215080.382265, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_69.png", "timestamp": 1701215082.95264, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_0.png", "timestamp": 1701215084.4545212, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_45.png", "timestamp": 1701215086.0381708, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_75.png", "timestamp": 1701215087.6577122, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_65.png", "timestamp": 1701215089.069377, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_47.png", "timestamp": 1701215090.4862669, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_83.png", "timestamp": 1701215091.8867042, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_46.png", "timestamp": 1701215093.225012, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_21.png", "timestamp": 1701215096.653428, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "fast food_worker_32.png", "timestamp": 1701215098.826615, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_67.png", "timestamp": 1701215100.41577, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_99.png", "timestamp": 1701215101.648843, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_88.png", "timestamp": 1701215103.229547, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_93.png", "timestamp": 1701215105.135175, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_55.png", "timestamp": 1701215107.7970428, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "janitor_24.png", "timestamp": 1701215110.1861901, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_57.png", "timestamp": 1701215111.8072681, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_23.png", "timestamp": 1701215117.444149, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_61.png", "timestamp": 1701215119.043124, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "teacher_84.png", "timestamp": 1701215120.9228559, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_77.png", "timestamp": 1701215122.4529002, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_73.png", "timestamp": 1701215123.927805, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_98.png", "timestamp": 1701215125.2980218, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_80.png", "timestamp": 1701215126.7371871, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_21.png", "timestamp": 1701215127.939701, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_67.png", "timestamp": 1701215129.203062, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_38.png", "timestamp": 1701215130.4644349, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_81.png", "timestamp": 1701215133.798224, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_99.png", "timestamp": 1701215135.2727401, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_27.png", "timestamp": 1701215136.554611, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_5.png", "timestamp": 1701215138.0022578, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_88.png", "timestamp": 1701215140.287349, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_19.png", "timestamp": 1701215141.890305, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_50.png", "timestamp": 1701215147.293618, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "janitor_87.png", "timestamp": 1701215149.005427, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_80.png", "timestamp": 1701215150.6260831, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_41.png", "timestamp": 1701215151.97526, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_32.png", "timestamp": 1701215153.4321861, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_98.png", "timestamp": 1701215155.3123012, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "construction_worker_37.png", "timestamp": 1701215157.0462332, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_18.png", "timestamp": 1701215159.3051782, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_79.png", "timestamp": 1701215162.5226629, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_78.png", "timestamp": 1701215164.110368, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_7.png", "timestamp": 1701215165.687941, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_60.png", "timestamp": 1701215167.079809, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_95.png", "timestamp": 1701215168.3234649, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_92.png", "timestamp": 1701215169.536847, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_5.png", "timestamp": 1701215171.137169, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_35.png", "timestamp": 1701215174.0705879, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "teacher_55.png", "timestamp": 1701215175.971818, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_40.png", "timestamp": 1701215177.32145, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_57.png", "timestamp": 1701215179.772266, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_81.png", "timestamp": 1701215181.377538, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_62.png", "timestamp": 1701215185.512888, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_66.png", "timestamp": 1701215186.861234, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_26.png", "timestamp": 1701215188.08244, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_25.png", "timestamp": 1701215190.8112562, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_68.png", "timestamp": 1701215192.3285398, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_36.png", "timestamp": 1701215193.8713942, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_70.png", "timestamp": 1701215195.040318, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_87.png", "timestamp": 1701215196.338155, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_27.png", "timestamp": 1701215197.725142, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_48.png", "timestamp": 1701215198.88816, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_5.png", "timestamp": 1701215200.057735, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_83.png", "timestamp": 1701215201.5075488, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_3.png", "timestamp": 1701215202.757519, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_80.png", "timestamp": 1701215204.043254, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_54.png", "timestamp": 1701215205.313555, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_32.png", "timestamp": 1701215206.597041, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_89.png", "timestamp": 1701215208.070001, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_29.png", "timestamp": 1701215210.0067651, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "teacher_30.png", "timestamp": 1701215211.8752482, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_80.png", "timestamp": 1701215213.168737, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_54.png", "timestamp": 1701215214.990874, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_65.png", "timestamp": 1701215216.797261, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_17.png", "timestamp": 1701215218.07938, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_29.png", "timestamp": 1701215219.394783, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_2.png", "timestamp": 1701215220.604405, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_70.png", "timestamp": 1701215221.9917471, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_81.png", "timestamp": 1701215223.273411, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_33.png", "timestamp": 1701215224.415541, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_84.png", "timestamp": 1701215225.661932, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_73.png", "timestamp": 1701215227.003071, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_32.png", "timestamp": 1701215228.5062249, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_64.png", "timestamp": 1701215229.897579, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_58.png", "timestamp": 1701215231.5147321, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_90.png", "timestamp": 1701215233.2967858, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_34.png", "timestamp": 1701215234.741868, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_69.png", "timestamp": 1701215237.208003, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_26.png", "timestamp": 1701215238.5669801, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_49.png", "timestamp": 1701215239.919768, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_94.png", "timestamp": 1701215241.1886568, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_64.png", "timestamp": 1701215242.7834282, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_61.png", "timestamp": 1701215244.3045938, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_0.png", "timestamp": 1701215257.0572858, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "janitor_4.png", "timestamp": 1701215260.255612, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_76.png", "timestamp": 1701215261.5625489, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_66.png", "timestamp": 1701215263.034226, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_43.png", "timestamp": 1701215264.4283268, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_55.png", "timestamp": 1701215265.49051, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_29.png", "timestamp": 1701215267.455395, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_19.png", "timestamp": 1701215268.840918, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_52.png", "timestamp": 1701215270.140148, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_46.png", "timestamp": 1701215271.2538822, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_98.png", "timestamp": 1701215272.47422, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_71.png", "timestamp": 1701215274.325997, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_11.png", "timestamp": 1701215275.514095, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_52.png", "timestamp": 1701215276.8240168, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_0.png", "timestamp": 1701215278.1120582, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_69.png", "timestamp": 1701215279.406105, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_61.png", "timestamp": 1701215280.7364259, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_28.png", "timestamp": 1701215282.3132968, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_3.png", "timestamp": 1701215283.721782, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_35.png", "timestamp": 1701215285.1326761, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_39.png", "timestamp": 1701215286.32335, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_91.png", "timestamp": 1701215287.842366, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_62.png", "timestamp": 1701215289.6273348, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_58.png", "timestamp": 1701215291.146276, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_24.png", "timestamp": 1701215292.443973, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_54.png", "timestamp": 1701215293.682166, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_78.png", "timestamp": 1701215295.121804, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_69.png", "timestamp": 1701215296.3599691, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_62.png", "timestamp": 1701215297.640985, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_62.png", "timestamp": 1701215299.125338, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_62.png", "timestamp": 1701215300.309669, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_24.png", "timestamp": 1701215304.425156, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "farmer_9.png", "timestamp": 1701215306.27113, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_24.png", "timestamp": 1701215307.7911448, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_94.png", "timestamp": 1701215309.031669, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_14.png", "timestamp": 1701215310.501055, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_72.png", "timestamp": 1701215311.943288, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_78.png", "timestamp": 1701215313.348948, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_0.png", "timestamp": 1701215316.4463391, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_20.png", "timestamp": 1701215317.924969, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_35.png", "timestamp": 1701215319.21445, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_90.png", "timestamp": 1701215321.500468, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "teacher_9.png", "timestamp": 1701215322.7054489, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_12.png", "timestamp": 1701215326.0306292, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_91.png", "timestamp": 1701215327.4249332, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_63.png", "timestamp": 1701215328.999, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_3.png", "timestamp": 1701215332.575022, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_11.png", "timestamp": 1701215336.849508, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "farmer_96.png", "timestamp": 1701215338.461069, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_69.png", "timestamp": 1701215341.8711748, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "construction_worker_33.png", "timestamp": 1701215343.389631, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_75.png", "timestamp": 1701215344.895051, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_7.png", "timestamp": 1701215346.20657, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_12.png", "timestamp": 1701215347.683687, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_95.png", "timestamp": 1701215349.065876, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_64.png", "timestamp": 1701215350.616935, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_28.png", "timestamp": 1701215351.9570959, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_53.png", "timestamp": 1701215353.360842, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_94.png", "timestamp": 1701215354.790209, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_68.png", "timestamp": 1701215356.329576, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_7.png", "timestamp": 1701215357.6824179, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_3.png", "timestamp": 1701215358.8931048, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_44.png", "timestamp": 1701215360.505863, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_96.png", "timestamp": 1701215361.809914, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_56.png", "timestamp": 1701215391.208052, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_8.png", "timestamp": 1701215393.219131, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_86.png", "timestamp": 1701215395.21071, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "teacher_74.png", "timestamp": 1701215397.232007, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_61.png", "timestamp": 1701215399.164119, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_17.png", "timestamp": 1701215401.3993301, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_31.png", "timestamp": 1701215402.626498, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "teacher_62.png", "timestamp": 1701215407.8601909, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_29.png", "timestamp": 1701215409.227911, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_35.png", "timestamp": 1701215410.4731488, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_55.png", "timestamp": 1701215411.627258, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_84.png", "timestamp": 1701215412.795864, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_87.png", "timestamp": 1701215415.279543, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_12.png", "timestamp": 1701215416.593112, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_48.png", "timestamp": 1701215418.2288342, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_18.png", "timestamp": 1701215419.826829, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_92.png", "timestamp": 1701215424.566735, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_94.png", "timestamp": 1701215428.042808, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "fast food_worker_76.png", "timestamp": 1701215430.880074, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_36.png", "timestamp": 1701215432.394212, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_8.png", "timestamp": 1701215433.698142, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_8.png", "timestamp": 1701215435.141425, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_49.png", "timestamp": 1701215438.741379, "worker": "Abigail W", "labels": ["men (S)", "unclear (F)"]}, {"image": "farmer_17.png", "timestamp": 1701215440.203795, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_35.png", "timestamp": 1701215441.633335, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_52.png", "timestamp": 1701215442.942743, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_17.png", "timestamp": 1701215451.283175, "worker": "Abigail W", "labels": ["men (S)", "unclear (F)"]}, {"image": "construction_worker_1.png", "timestamp": 1701215452.853778, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_29.png", "timestamp": 1701215455.699836, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_68.png", "timestamp": 1701215457.0754619, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_66.png", "timestamp": 1701215458.2346811, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_68.png", "timestamp": 1701215460.753283, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_89.png", "timestamp": 1701215495.092491, "worker": "Abigail W", "labels": ["men (S)", "children (D)"]}, {"image": "farmer_33.png", "timestamp": 1701215497.9325209, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_8.png", "timestamp": 1701215499.869303, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_19.png", "timestamp": 1701215501.213117, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_13.png", "timestamp": 1701215502.4358761, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_0.png", "timestamp": 1701215503.650522, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_80.png", "timestamp": 1701215506.753094, "worker": "Abigail W", "labels": ["men (S)", "unclear (F)"]}, {"image": "police_officer_10.png", "timestamp": 1701215507.9808671, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_50.png", "timestamp": 1701215509.97853, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_97.png", "timestamp": 1701215511.643255, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_52.png", "timestamp": 1701215518.729631, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "fast food_worker_84.png", "timestamp": 1701215520.978219, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_2.png", "timestamp": 1701215522.1514502, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_33.png", "timestamp": 1701215523.276365, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_24.png", "timestamp": 1701215524.6173341, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_82.png", "timestamp": 1701215527.7545679, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_75.png", "timestamp": 1701215530.565086, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_58.png", "timestamp": 1701215531.762701, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_48.png", "timestamp": 1701215533.226387, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "teacher_59.png", "timestamp": 1701215534.612467, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_49.png", "timestamp": 1701215535.828716, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_7.png", "timestamp": 1701215538.300902, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_26.png", "timestamp": 1701215539.417911, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_31.png", "timestamp": 1701215540.6491442, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_46.png", "timestamp": 1701215542.3522959, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_51.png", "timestamp": 1701215543.794764, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_18.png", "timestamp": 1701215546.853023, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_36.png", "timestamp": 1701215548.247489, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_42.png", "timestamp": 1701215549.428432, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_30.png", "timestamp": 1701215550.858423, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_93.png", "timestamp": 1701215552.4315891, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_84.png", "timestamp": 1701215576.7011771, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_77.png", "timestamp": 1701215578.139599, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_32.png", "timestamp": 1701215579.589416, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_59.png", "timestamp": 1701215580.863966, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_15.png", "timestamp": 1701215582.5965528, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_43.png", "timestamp": 1701215583.758068, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_2.png", "timestamp": 1701215585.082564, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_66.png", "timestamp": 1701215586.665673, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_17.png", "timestamp": 1701215588.561688, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_5.png", "timestamp": 1701215589.901969, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_80.png", "timestamp": 1701215591.3279822, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_80.png", "timestamp": 1701215595.244288, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "teacher_53.png", "timestamp": 1701215597.582849, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_30.png", "timestamp": 1701215599.2038982, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "teacher_40.png", "timestamp": 1701215601.446927, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "cashier_76.png", "timestamp": 1701215604.677809, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "teacher_16.png", "timestamp": 1701215611.960681, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_70.png", "timestamp": 1701215613.604085, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_20.png", "timestamp": 1701215614.852472, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_22.png", "timestamp": 1701215615.994655, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_2.png", "timestamp": 1701215617.246018, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_10.png", "timestamp": 1701215618.4187672, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_77.png", "timestamp": 1701215624.434567, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_63.png", "timestamp": 1701215625.967919, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_74.png", "timestamp": 1701215627.21117, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_60.png", "timestamp": 1701215628.8296058, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_38.png", "timestamp": 1701215631.137502, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_85.png", "timestamp": 1701215632.529435, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_65.png", "timestamp": 1701215634.0893939, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_24.png", "timestamp": 1701215635.33099, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_90.png", "timestamp": 1701215636.771014, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_30.png", "timestamp": 1701215637.981288, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_64.png", "timestamp": 1701215639.084055, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_87.png", "timestamp": 1701215640.325283, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_71.png", "timestamp": 1701215641.5669298, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_91.png", "timestamp": 1701215643.132386, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_42.png", "timestamp": 1701215646.860789, "worker": "Abigail W", "labels": ["children (D)"]}, {"image": "fast food_worker_59.png", "timestamp": 1701215648.2550452, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_99.png", "timestamp": 1701215649.742178, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_68.png", "timestamp": 1701215651.264277, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_45.png", "timestamp": 1701215652.512358, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_61.png", "timestamp": 1701215653.822579, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_74.png", "timestamp": 1701215656.198399, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_85.png", "timestamp": 1701215657.5004091, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_21.png", "timestamp": 1701215659.153823, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_97.png", "timestamp": 1701215660.480098, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_9.png", "timestamp": 1701215661.830715, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_11.png", "timestamp": 1701215664.48229, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_23.png", "timestamp": 1701215669.1650949, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_10.png", "timestamp": 1701215671.032212, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_90.png", "timestamp": 1701215672.326584, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_44.png", "timestamp": 1701215673.7392828, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_63.png", "timestamp": 1701215675.079713, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_8.png", "timestamp": 1701215676.249957, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_25.png", "timestamp": 1701215677.995478, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_1.png", "timestamp": 1701215750.539246, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "fast food_worker_85.png", "timestamp": 1701215754.919026, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "fast food_worker_49.png", "timestamp": 1701215759.0634189, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "teacher_33.png", "timestamp": 1701215760.831573, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_72.png", "timestamp": 1701215762.2196, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_26.png", "timestamp": 1701215764.05296, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_81.png", "timestamp": 1701215765.194879, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_70.png", "timestamp": 1701215766.52193, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_63.png", "timestamp": 1701215767.886105, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_41.png", "timestamp": 1701215769.2165718, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_21.png", "timestamp": 1701215770.35759, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_50.png", "timestamp": 1701215771.834632, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_16.png", "timestamp": 1701215773.196223, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_83.png", "timestamp": 1701215774.7897222, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "fast food_worker_83.png", "timestamp": 1701215776.983165, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_39.png", "timestamp": 1701215778.279812, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_43.png", "timestamp": 1701215780.0241559, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_90.png", "timestamp": 1701215781.474729, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_13.png", "timestamp": 1701215784.539499, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_39.png", "timestamp": 1701215785.985445, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_45.png", "timestamp": 1701215787.5190809, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_14.png", "timestamp": 1701215788.9556081, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_22.png", "timestamp": 1701215790.381205, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_30.png", "timestamp": 1701215791.833316, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_31.png", "timestamp": 1701215793.222811, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_42.png", "timestamp": 1701215794.918654, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_95.png", "timestamp": 1701215796.274344, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_20.png", "timestamp": 1701215798.268626, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "teacher_46.png", "timestamp": 1701215799.838303, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "teacher_1.png", "timestamp": 1701215801.135638, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_20.png", "timestamp": 1701215802.451064, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "farmer_71.png", "timestamp": 1701215803.922797, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_95.png", "timestamp": 1701215814.97447, "worker": "Abigail W", "labels": ["unclear (F)"]}, {"image": "cashier_15.png", "timestamp": 1701215817.680943, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "janitor_91.png", "timestamp": 1701215819.26723, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_47.png", "timestamp": 1701215824.417224, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_33.png", "timestamp": 1701215826.032487, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_99.png", "timestamp": 1701215827.802094, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_86.png", "timestamp": 1701215829.403392, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_26.png", "timestamp": 1701215830.580084, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_86.png", "timestamp": 1701215831.932252, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_96.png", "timestamp": 1701215833.090817, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "teacher_96.png", "timestamp": 1701215834.437491, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_97.png", "timestamp": 1701215836.567103, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_53.png", "timestamp": 1701215837.964201, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "police_officer_79.png", "timestamp": 1701215839.104909, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "janitor_43.png", "timestamp": 1701215840.313683, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "construction_worker_50.png", "timestamp": 1701215841.851443, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_14.png", "timestamp": 1701215843.332578, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "cashier_13.png", "timestamp": 1701215844.635521, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "farmer_60.png", "timestamp": 1701215845.989386, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_40.png", "timestamp": 1701215847.370837, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_54.png", "timestamp": 1701215848.730283, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "cashier_39.png", "timestamp": 1701215850.033782, "worker": "Abigail W", "labels": ["women (A)"]}, {"image": "construction_worker_59.png", "timestamp": 1701215851.198753, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "fast food_worker_36.png", "timestamp": 1701215852.548643, "worker": "Abigail W", "labels": ["men (S)"]}, {"image": "police_officer_29.png", "timestamp": 1701215853.815844, "worker": "Abigail W", "labels": ["men (S)"]}]
+[
+  {
+    "image": "teacher_6.png",
+    "timestamp": 1701040137.952524,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_38.png",
+    "timestamp": 1701040171.0986292,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_14.png",
+    "timestamp": 1701040174.589688,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_17.png",
+    "timestamp": 1701040176.56329,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_86.png",
+    "timestamp": 1701040182.6533718,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_39.png",
+    "timestamp": 1701040184.7887528,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_65.png",
+    "timestamp": 1701040203.2029881,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_19.png",
+    "timestamp": 1701040239.8244312,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_75.png",
+    "timestamp": 1701040242.865552,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_54.png",
+    "timestamp": 1701040267.90911,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "farmer_47.png",
+    "timestamp": 1701040287.136332,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_23.png",
+    "timestamp": 1701040293.383914,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_73.png",
+    "timestamp": 1701040295.255945,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_78.png",
+    "timestamp": 1701040296.948938,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_10.png",
+    "timestamp": 1701040301.269064,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_26.png",
+    "timestamp": 1701040312.478715,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_37.png",
+    "timestamp": 1701040361.288107,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_51.png",
+    "timestamp": 1701040363.702869,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_72.png",
+    "timestamp": 1701040365.92723,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_34.png",
+    "timestamp": 1701040369.472237,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_47.png",
+    "timestamp": 1701040372.735929,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_92.png",
+    "timestamp": 1701040375.088756,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_73.png",
+    "timestamp": 1701040377.4697301,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_71.png",
+    "timestamp": 1701040379.8712451,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_21.png",
+    "timestamp": 1701040381.828966,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_4.png",
+    "timestamp": 1701040394.208698,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_85.png",
+    "timestamp": 1701040396.547325,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_37.png",
+    "timestamp": 1701040399.734755,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_11.png",
+    "timestamp": 1701040402.386462,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_36.png",
+    "timestamp": 1701040404.172704,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_13.png",
+    "timestamp": 1701040407.275242,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_8.png",
+    "timestamp": 1701040409.249376,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_57.png",
+    "timestamp": 1701040411.389911,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_10.png",
+    "timestamp": 1701040413.079288,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_88.png",
+    "timestamp": 1701040420.395016,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_96.png",
+    "timestamp": 1701040422.7002711,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_45.png",
+    "timestamp": 1701040424.507209,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_43.png",
+    "timestamp": 1701040444.695574,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_77.png",
+    "timestamp": 1701040446.437981,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_56.png",
+    "timestamp": 1701040448.004221,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_97.png",
+    "timestamp": 1701040449.560645,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_3.png",
+    "timestamp": 1701040452.988561,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_14.png",
+    "timestamp": 1701040454.896526,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_87.png",
+    "timestamp": 1701040456.675563,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_11.png",
+    "timestamp": 1701040461.194239,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_98.png",
+    "timestamp": 1701040481.661815,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_86.png",
+    "timestamp": 1701040502.876775,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_77.png",
+    "timestamp": 1701040508.27526,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_81.png",
+    "timestamp": 1701040510.830956,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_74.png",
+    "timestamp": 1701040512.3146088,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_74.png",
+    "timestamp": 1701040514.432679,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_51.png",
+    "timestamp": 1701040531.82372,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_45.png",
+    "timestamp": 1701040535.973834,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_23.png",
+    "timestamp": 1701040537.674177,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_67.png",
+    "timestamp": 1701040543.5447838,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_87.png",
+    "timestamp": 1701040560.663149,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_27.png",
+    "timestamp": 1701040562.6300879,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_61.png",
+    "timestamp": 1701040564.940864,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_14.png",
+    "timestamp": 1701040566.7416909,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_52.png",
+    "timestamp": 1701040573.407941,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "teacher_57.png",
+    "timestamp": 1701040575.49148,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_40.png",
+    "timestamp": 1701040577.058772,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_44.png",
+    "timestamp": 1701040580.199608,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_30.png",
+    "timestamp": 1701040583.124774,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_38.png",
+    "timestamp": 1701040584.6801112,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_13.png",
+    "timestamp": 1701040586.675787,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_95.png",
+    "timestamp": 1701040588.243178,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_34.png",
+    "timestamp": 1701040591.5069098,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_59.png",
+    "timestamp": 1701040603.83465,
+    "worker": "Abigail W",
+    "labels": ["men (S)", "unclear (F)"]
+  },
+  {
+    "image": "construction_worker_51.png",
+    "timestamp": 1701040607.279419,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_28.png",
+    "timestamp": 1701040609.604579,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "cashier_25.png",
+    "timestamp": 1701040611.940586,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_15.png",
+    "timestamp": 1701040614.064678,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_52.png",
+    "timestamp": 1701040616.39779,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_59.png",
+    "timestamp": 1701040620.578538,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "teacher_63.png",
+    "timestamp": 1701040624.6465018,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_32.png",
+    "timestamp": 1701040626.399925,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_34.png",
+    "timestamp": 1701040629.1554759,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_3.png",
+    "timestamp": 1701040631.485676,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_83.png",
+    "timestamp": 1701040633.3045208,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_1.png",
+    "timestamp": 1701040635.375339,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_76.png",
+    "timestamp": 1701040637.044213,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_38.png",
+    "timestamp": 1701040642.255174,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_72.png",
+    "timestamp": 1701040757.482049,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_4.png",
+    "timestamp": 1701040763.421827,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_86.png",
+    "timestamp": 1701040770.540561,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_89.png",
+    "timestamp": 1701040778.5029628,
+    "worker": "Abigail W",
+    "labels": ["men (S)", "unclear (F)"]
+  },
+  {
+    "image": "teacher_98.png",
+    "timestamp": 1701040781.684063,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "teacher_71.png",
+    "timestamp": 1701040783.977416,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_91.png",
+    "timestamp": 1701208171.484888,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_45.png",
+    "timestamp": 1701208174.374031,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_62.png",
+    "timestamp": 1701208176.053596,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_57.png",
+    "timestamp": 1701208177.511195,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_7.png",
+    "timestamp": 1701208178.761594,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_35.png",
+    "timestamp": 1701208182.109571,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_12.png",
+    "timestamp": 1701208183.951482,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_43.png",
+    "timestamp": 1701208185.793921,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_91.png",
+    "timestamp": 1701208188.928235,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_38.png",
+    "timestamp": 1701208193.615533,
+    "worker": "Abigail W",
+    "labels": ["men (S)", "unclear (F)"]
+  },
+  {
+    "image": "farmer_88.png",
+    "timestamp": 1701208195.2210188,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_58.png",
+    "timestamp": 1701208202.157145,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "teacher_25.png",
+    "timestamp": 1701208204.05584,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_6.png",
+    "timestamp": 1701208205.734891,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_48.png",
+    "timestamp": 1701208207.479536,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_71.png",
+    "timestamp": 1701208209.0384152,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_71.png",
+    "timestamp": 1701208210.696049,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_24.png",
+    "timestamp": 1701208212.1795,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_67.png",
+    "timestamp": 1701208213.5680509,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_5.png",
+    "timestamp": 1701208215.0263429,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_37.png",
+    "timestamp": 1701208216.999671,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_31.png",
+    "timestamp": 1701208221.766571,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_81.png",
+    "timestamp": 1701208223.1526458,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_1.png",
+    "timestamp": 1701208224.671385,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_48.png",
+    "timestamp": 1701208226.218763,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_16.png",
+    "timestamp": 1701208227.700489,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_4.png",
+    "timestamp": 1701208228.939557,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_15.png",
+    "timestamp": 1701208230.132859,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_89.png",
+    "timestamp": 1701208232.4198442,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_90.png",
+    "timestamp": 1701208234.0166788,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_6.png",
+    "timestamp": 1701208235.718066,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_9.png",
+    "timestamp": 1701208237.984767,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_93.png",
+    "timestamp": 1701208239.619086,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_10.png",
+    "timestamp": 1701208241.0363278,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "teacher_56.png",
+    "timestamp": 1701208245.9493709,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_34.png",
+    "timestamp": 1701208249.639176,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "teacher_67.png",
+    "timestamp": 1701208251.6507351,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_35.png",
+    "timestamp": 1701208253.256563,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_22.png",
+    "timestamp": 1701208254.796489,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_29.png",
+    "timestamp": 1701208256.366273,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_40.png",
+    "timestamp": 1701208258.0504801,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_58.png",
+    "timestamp": 1701208259.412898,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_45.png",
+    "timestamp": 1701208261.198713,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_77.png",
+    "timestamp": 1701208262.495383,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_3.png",
+    "timestamp": 1701208264.124207,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_72.png",
+    "timestamp": 1701208265.440066,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_9.png",
+    "timestamp": 1701208266.814996,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_75.png",
+    "timestamp": 1701208268.344994,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_84.png",
+    "timestamp": 1701208271.1973062,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_67.png",
+    "timestamp": 1701208272.747529,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_44.png",
+    "timestamp": 1701208275.418485,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_70.png",
+    "timestamp": 1701208278.447238,
+    "worker": "Abigail W",
+    "labels": ["women (A)", "unclear (F)"]
+  },
+  {
+    "image": "fast food_worker_16.png",
+    "timestamp": 1701208280.66407,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "teacher_97.png",
+    "timestamp": 1701208282.7768068,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_82.png",
+    "timestamp": 1701208285.966885,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_27.png",
+    "timestamp": 1701208287.4528031,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_94.png",
+    "timestamp": 1701208294.185226,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "cashier_78.png",
+    "timestamp": 1701208296.1592162,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_99.png",
+    "timestamp": 1701208299.23295,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_92.png",
+    "timestamp": 1701208306.203151,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_47.png",
+    "timestamp": 1701208308.5705652,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_12.png",
+    "timestamp": 1701208310.3380322,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_73.png",
+    "timestamp": 1701208313.3710048,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "police_officer_65.png",
+    "timestamp": 1701208315.380773,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_51.png",
+    "timestamp": 1701208326.004647,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_51.png",
+    "timestamp": 1701208334.3444889,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_55.png",
+    "timestamp": 1701208336.016484,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_66.png",
+    "timestamp": 1701208337.9143958,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_1.png",
+    "timestamp": 1701208340.078955,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_65.png",
+    "timestamp": 1701208341.6393359,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_58.png",
+    "timestamp": 1701208343.4982882,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_41.png",
+    "timestamp": 1701208345.0080562,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_89.png",
+    "timestamp": 1701208346.259273,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_82.png",
+    "timestamp": 1701208347.6175842,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_50.png",
+    "timestamp": 1701208349.9772658,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_31.png",
+    "timestamp": 1701208351.5644002,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_96.png",
+    "timestamp": 1701208353.603621,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_72.png",
+    "timestamp": 1701208356.475372,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_64.png",
+    "timestamp": 1701208357.879092,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_86.png",
+    "timestamp": 1701208359.026963,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_79.png",
+    "timestamp": 1701208362.848894,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "police_officer_30.png",
+    "timestamp": 1701208366.79773,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_33.png",
+    "timestamp": 1701208372.807253,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_79.png",
+    "timestamp": 1701208374.740843,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_53.png",
+    "timestamp": 1701208376.43761,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_97.png",
+    "timestamp": 1701208377.7450838,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_6.png",
+    "timestamp": 1701208380.269996,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "teacher_19.png",
+    "timestamp": 1701208381.782629,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_64.png",
+    "timestamp": 1701208383.851954,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_18.png",
+    "timestamp": 1701208385.332351,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_70.png",
+    "timestamp": 1701208387.075327,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_98.png",
+    "timestamp": 1701208389.486672,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_21.png",
+    "timestamp": 1701208399.1771588,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_12.png",
+    "timestamp": 1701208415.674834,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "construction_worker_92.png",
+    "timestamp": 1701208418.430325,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_7.png",
+    "timestamp": 1701208426.4600189,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_2.png",
+    "timestamp": 1701214370.103173,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "construction_worker_4.png",
+    "timestamp": 1701214373.1623209,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_74.png",
+    "timestamp": 1701214374.824354,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_79.png",
+    "timestamp": 1701214376.168244,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_36.png",
+    "timestamp": 1701214378.915315,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_20.png",
+    "timestamp": 1701214380.347872,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_97.png",
+    "timestamp": 1701214384.126482,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_5.png",
+    "timestamp": 1701214387.112587,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_52.png",
+    "timestamp": 1701214388.492199,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_26.png",
+    "timestamp": 1701214389.9240901,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_32.png",
+    "timestamp": 1701214391.783131,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_59.png",
+    "timestamp": 1701214393.234855,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_16.png",
+    "timestamp": 1701214394.581333,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_73.png",
+    "timestamp": 1701214411.388711,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "farmer_44.png",
+    "timestamp": 1701214413.40968,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_47.png",
+    "timestamp": 1701214417.459508,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_74.png",
+    "timestamp": 1701214419.0793111,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_82.png",
+    "timestamp": 1701214420.4870489,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_61.png",
+    "timestamp": 1701214421.8628411,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_50.png",
+    "timestamp": 1701214423.1582909,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_20.png",
+    "timestamp": 1701214434.263906,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_42.png",
+    "timestamp": 1701214436.3761458,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_73.png",
+    "timestamp": 1701214437.7918541,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_56.png",
+    "timestamp": 1701214439.087643,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_0.png",
+    "timestamp": 1701214442.594218,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_25.png",
+    "timestamp": 1701214562.215242,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "teacher_11.png",
+    "timestamp": 1701214565.46539,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_91.png",
+    "timestamp": 1701214566.8971012,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_11.png",
+    "timestamp": 1701214568.5376372,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_56.png",
+    "timestamp": 1701214570.207157,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_76.png",
+    "timestamp": 1701214572.211216,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_23.png",
+    "timestamp": 1701214573.543455,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_44.png",
+    "timestamp": 1701214574.821864,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_54.png",
+    "timestamp": 1701214576.106312,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_41.png",
+    "timestamp": 1701214588.687974,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "police_officer_88.png",
+    "timestamp": 1701214590.515702,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_1.png",
+    "timestamp": 1701214592.6272929,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_21.png",
+    "timestamp": 1701214598.460216,
+    "worker": "Abigail W",
+    "labels": ["men (S)", "unclear (F)"]
+  },
+  {
+    "image": "farmer_69.png",
+    "timestamp": 1701214600.1896782,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_85.png",
+    "timestamp": 1701214601.913307,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_58.png",
+    "timestamp": 1701214603.503637,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_95.png",
+    "timestamp": 1701214605.8090408,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_93.png",
+    "timestamp": 1701214645.803553,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "police_officer_94.png",
+    "timestamp": 1701214648.026787,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_93.png",
+    "timestamp": 1701214649.415267,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_2.png",
+    "timestamp": 1701214651.979773,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_7.png",
+    "timestamp": 1701214653.454319,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_42.png",
+    "timestamp": 1701214661.350739,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_72.png",
+    "timestamp": 1701214663.212609,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_75.png",
+    "timestamp": 1701214665.1280599,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_85.png",
+    "timestamp": 1701214668.282326,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_16.png",
+    "timestamp": 1701214669.606008,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_55.png",
+    "timestamp": 1701214672.037528,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_13.png",
+    "timestamp": 1701214683.590066,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_50.png",
+    "timestamp": 1701214686.54904,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_5.png",
+    "timestamp": 1701214700.369668,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_92.png",
+    "timestamp": 1701214704.4311922,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "police_officer_28.png",
+    "timestamp": 1701214708.271431,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_68.png",
+    "timestamp": 1701214711.3878348,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_99.png",
+    "timestamp": 1701214714.637857,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_2.png",
+    "timestamp": 1701214716.001069,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_46.png",
+    "timestamp": 1701214717.4570408,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_98.png",
+    "timestamp": 1701214718.7654731,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_37.png",
+    "timestamp": 1701214720.5855381,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_66.png",
+    "timestamp": 1701214722.0267289,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_82.png",
+    "timestamp": 1701214744.2239208,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_25.png",
+    "timestamp": 1701214754.7641191,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_37.png",
+    "timestamp": 1701214756.639551,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_28.png",
+    "timestamp": 1701214758.115985,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_84.png",
+    "timestamp": 1701214761.5518248,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_60.png",
+    "timestamp": 1701214763.71929,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_49.png",
+    "timestamp": 1701214764.9341471,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_31.png",
+    "timestamp": 1701214770.199543,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_22.png",
+    "timestamp": 1701214771.6023428,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_40.png",
+    "timestamp": 1701214793.182625,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_38.png",
+    "timestamp": 1701214796.469692,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_65.png",
+    "timestamp": 1701214797.872389,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_53.png",
+    "timestamp": 1701214799.717289,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_79.png",
+    "timestamp": 1701214801.2516742,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_16.png",
+    "timestamp": 1701214802.974487,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_53.png",
+    "timestamp": 1701214823.4175858,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "police_officer_12.png",
+    "timestamp": 1701214825.534467,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_10.png",
+    "timestamp": 1701214826.896804,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_18.png",
+    "timestamp": 1701214828.21839,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_51.png",
+    "timestamp": 1701214829.5537071,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_42.png",
+    "timestamp": 1701214830.9209259,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_87.png",
+    "timestamp": 1701214832.1983979,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_95.png",
+    "timestamp": 1701214834.750907,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_55.png",
+    "timestamp": 1701214837.401669,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_22.png",
+    "timestamp": 1701214838.9172711,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_6.png",
+    "timestamp": 1701214847.149929,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_39.png",
+    "timestamp": 1701214848.549956,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_15.png",
+    "timestamp": 1701214859.586694,
+    "worker": "Abigail W",
+    "labels": ["children (D)"]
+  },
+  {
+    "image": "teacher_94.png",
+    "timestamp": 1701214861.4495301,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_54.png",
+    "timestamp": 1701214863.133183,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_82.png",
+    "timestamp": 1701214864.282364,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_57.png",
+    "timestamp": 1701214865.6914802,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_36.png",
+    "timestamp": 1701214875.406271,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_23.png",
+    "timestamp": 1701214876.801863,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_93.png",
+    "timestamp": 1701214878.151894,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_49.png",
+    "timestamp": 1701214880.2504451,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "teacher_28.png",
+    "timestamp": 1701214883.183573,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_92.png",
+    "timestamp": 1701214885.618037,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_47.png",
+    "timestamp": 1701214887.032844,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_60.png",
+    "timestamp": 1701214888.8861032,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_63.png",
+    "timestamp": 1701214890.582915,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_56.png",
+    "timestamp": 1701214892.104587,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_8.png",
+    "timestamp": 1701214893.657127,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_22.png",
+    "timestamp": 1701214897.768044,
+    "worker": "Abigail W",
+    "labels": ["men (S)", "unclear (F)"]
+  },
+  {
+    "image": "janitor_90.png",
+    "timestamp": 1701214899.60129,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_25.png",
+    "timestamp": 1701214901.150968,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_41.png",
+    "timestamp": 1701214902.7339652,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_0.png",
+    "timestamp": 1701214904.318615,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_34.png",
+    "timestamp": 1701214907.243258,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_76.png",
+    "timestamp": 1701214908.420091,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_57.png",
+    "timestamp": 1701214910.119074,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_96.png",
+    "timestamp": 1701214911.861644,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_18.png",
+    "timestamp": 1701214916.515918,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_27.png",
+    "timestamp": 1701214917.7276711,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_31.png",
+    "timestamp": 1701214919.325943,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_40.png",
+    "timestamp": 1701214922.7003179,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_17.png",
+    "timestamp": 1701214926.278985,
+    "worker": "Abigail W",
+    "labels": ["men (S)", "unclear (F)"]
+  },
+  {
+    "image": "farmer_93.png",
+    "timestamp": 1701214928.768918,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_48.png",
+    "timestamp": 1701214930.718875,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_18.png",
+    "timestamp": 1701214933.066633,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_64.png",
+    "timestamp": 1701214935.223787,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_75.png",
+    "timestamp": 1701214937.717036,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_42.png",
+    "timestamp": 1701214939.1513212,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_60.png",
+    "timestamp": 1701214940.4735339,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_85.png",
+    "timestamp": 1701214941.8808372,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_19.png",
+    "timestamp": 1701214945.033628,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_60.png",
+    "timestamp": 1701214946.571289,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_88.png",
+    "timestamp": 1701214948.854614,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_9.png",
+    "timestamp": 1701214950.352777,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_20.png",
+    "timestamp": 1701214956.175145,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "farmer_83.png",
+    "timestamp": 1701214957.506036,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_9.png",
+    "timestamp": 1701214959.8032398,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_41.png",
+    "timestamp": 1701214961.469366,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_79.png",
+    "timestamp": 1701214962.6686752,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_43.png",
+    "timestamp": 1701214964.5583968,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_22.png",
+    "timestamp": 1701214966.413431,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_49.png",
+    "timestamp": 1701214974.235743,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_15.png",
+    "timestamp": 1701214977.336973,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_23.png",
+    "timestamp": 1701214978.809959,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_69.png",
+    "timestamp": 1701214981.173407,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_4.png",
+    "timestamp": 1701214982.60741,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_27.png",
+    "timestamp": 1701214984.078209,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_15.png",
+    "timestamp": 1701214985.414665,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_14.png",
+    "timestamp": 1701214987.684862,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_88.png",
+    "timestamp": 1701214991.010179,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_67.png",
+    "timestamp": 1701214995.483763,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_89.png",
+    "timestamp": 1701215002.428431,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_13.png",
+    "timestamp": 1701215004.2569249,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_53.png",
+    "timestamp": 1701215005.926282,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_99.png",
+    "timestamp": 1701215007.755369,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_44.png",
+    "timestamp": 1701215009.593031,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_41.png",
+    "timestamp": 1701215010.989577,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_34.png",
+    "timestamp": 1701215012.467896,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_63.png",
+    "timestamp": 1701215014.0002089,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_82.png",
+    "timestamp": 1701215015.723181,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_46.png",
+    "timestamp": 1701215019.069399,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_70.png",
+    "timestamp": 1701215028.2277608,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_6.png",
+    "timestamp": 1701215029.789203,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_4.png",
+    "timestamp": 1701215031.0851562,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_39.png",
+    "timestamp": 1701215034.034131,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "teacher_78.png",
+    "timestamp": 1701215035.4189372,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_76.png",
+    "timestamp": 1701215036.853004,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_83.png",
+    "timestamp": 1701215038.902314,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "construction_worker_68.png",
+    "timestamp": 1701215040.752209,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_66.png",
+    "timestamp": 1701215048.7279449,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_78.png",
+    "timestamp": 1701215050.221544,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_77.png",
+    "timestamp": 1701215051.70293,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_28.png",
+    "timestamp": 1701215052.905171,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_56.png",
+    "timestamp": 1701215054.278729,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_48.png",
+    "timestamp": 1701215055.838826,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_19.png",
+    "timestamp": 1701215057.168266,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_6.png",
+    "timestamp": 1701215058.684886,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_89.png",
+    "timestamp": 1701215060.4869602,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_37.png",
+    "timestamp": 1701215061.75522,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_81.png",
+    "timestamp": 1701215063.118554,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_46.png",
+    "timestamp": 1701215078.235347,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "farmer_27.png",
+    "timestamp": 1701215080.382265,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_69.png",
+    "timestamp": 1701215082.95264,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_0.png",
+    "timestamp": 1701215084.4545212,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_45.png",
+    "timestamp": 1701215086.0381708,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_75.png",
+    "timestamp": 1701215087.6577122,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_65.png",
+    "timestamp": 1701215089.069377,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_47.png",
+    "timestamp": 1701215090.4862669,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_83.png",
+    "timestamp": 1701215091.8867042,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_46.png",
+    "timestamp": 1701215093.225012,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_21.png",
+    "timestamp": 1701215096.653428,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "fast food_worker_32.png",
+    "timestamp": 1701215098.826615,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_67.png",
+    "timestamp": 1701215100.41577,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_99.png",
+    "timestamp": 1701215101.648843,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_88.png",
+    "timestamp": 1701215103.229547,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_93.png",
+    "timestamp": 1701215105.135175,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_55.png",
+    "timestamp": 1701215107.7970428,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "janitor_24.png",
+    "timestamp": 1701215110.1861901,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_57.png",
+    "timestamp": 1701215111.8072681,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_23.png",
+    "timestamp": 1701215117.444149,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_61.png",
+    "timestamp": 1701215119.043124,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "teacher_84.png",
+    "timestamp": 1701215120.9228559,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_77.png",
+    "timestamp": 1701215122.4529002,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_73.png",
+    "timestamp": 1701215123.927805,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_98.png",
+    "timestamp": 1701215125.2980218,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_80.png",
+    "timestamp": 1701215126.7371871,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_21.png",
+    "timestamp": 1701215127.939701,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_67.png",
+    "timestamp": 1701215129.203062,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_38.png",
+    "timestamp": 1701215130.4644349,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_81.png",
+    "timestamp": 1701215133.798224,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_99.png",
+    "timestamp": 1701215135.2727401,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_27.png",
+    "timestamp": 1701215136.554611,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_5.png",
+    "timestamp": 1701215138.0022578,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_88.png",
+    "timestamp": 1701215140.287349,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_19.png",
+    "timestamp": 1701215141.890305,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_50.png",
+    "timestamp": 1701215147.293618,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "janitor_87.png",
+    "timestamp": 1701215149.005427,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_80.png",
+    "timestamp": 1701215150.6260831,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_41.png",
+    "timestamp": 1701215151.97526,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_32.png",
+    "timestamp": 1701215153.4321861,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_98.png",
+    "timestamp": 1701215155.3123012,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "construction_worker_37.png",
+    "timestamp": 1701215157.0462332,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_18.png",
+    "timestamp": 1701215159.3051782,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_79.png",
+    "timestamp": 1701215162.5226629,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_78.png",
+    "timestamp": 1701215164.110368,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_7.png",
+    "timestamp": 1701215165.687941,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_60.png",
+    "timestamp": 1701215167.079809,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_95.png",
+    "timestamp": 1701215168.3234649,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_92.png",
+    "timestamp": 1701215169.536847,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_5.png",
+    "timestamp": 1701215171.137169,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_35.png",
+    "timestamp": 1701215174.0705879,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "teacher_55.png",
+    "timestamp": 1701215175.971818,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_40.png",
+    "timestamp": 1701215177.32145,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_57.png",
+    "timestamp": 1701215179.772266,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_81.png",
+    "timestamp": 1701215181.377538,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_62.png",
+    "timestamp": 1701215185.512888,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_66.png",
+    "timestamp": 1701215186.861234,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_26.png",
+    "timestamp": 1701215188.08244,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_25.png",
+    "timestamp": 1701215190.8112562,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_68.png",
+    "timestamp": 1701215192.3285398,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_36.png",
+    "timestamp": 1701215193.8713942,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_70.png",
+    "timestamp": 1701215195.040318,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_87.png",
+    "timestamp": 1701215196.338155,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_27.png",
+    "timestamp": 1701215197.725142,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_48.png",
+    "timestamp": 1701215198.88816,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_5.png",
+    "timestamp": 1701215200.057735,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_83.png",
+    "timestamp": 1701215201.5075488,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_3.png",
+    "timestamp": 1701215202.757519,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_80.png",
+    "timestamp": 1701215204.043254,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_54.png",
+    "timestamp": 1701215205.313555,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_32.png",
+    "timestamp": 1701215206.597041,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_89.png",
+    "timestamp": 1701215208.070001,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_29.png",
+    "timestamp": 1701215210.0067651,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "teacher_30.png",
+    "timestamp": 1701215211.8752482,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_80.png",
+    "timestamp": 1701215213.168737,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_54.png",
+    "timestamp": 1701215214.990874,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_65.png",
+    "timestamp": 1701215216.797261,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_17.png",
+    "timestamp": 1701215218.07938,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_29.png",
+    "timestamp": 1701215219.394783,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_2.png",
+    "timestamp": 1701215220.604405,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_70.png",
+    "timestamp": 1701215221.9917471,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_81.png",
+    "timestamp": 1701215223.273411,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_33.png",
+    "timestamp": 1701215224.415541,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_84.png",
+    "timestamp": 1701215225.661932,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_73.png",
+    "timestamp": 1701215227.003071,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_32.png",
+    "timestamp": 1701215228.5062249,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_64.png",
+    "timestamp": 1701215229.897579,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_58.png",
+    "timestamp": 1701215231.5147321,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_90.png",
+    "timestamp": 1701215233.2967858,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_34.png",
+    "timestamp": 1701215234.741868,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_69.png",
+    "timestamp": 1701215237.208003,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_26.png",
+    "timestamp": 1701215238.5669801,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_49.png",
+    "timestamp": 1701215239.919768,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_94.png",
+    "timestamp": 1701215241.1886568,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_64.png",
+    "timestamp": 1701215242.7834282,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_61.png",
+    "timestamp": 1701215244.3045938,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_0.png",
+    "timestamp": 1701215257.0572858,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "janitor_4.png",
+    "timestamp": 1701215260.255612,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_76.png",
+    "timestamp": 1701215261.5625489,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_66.png",
+    "timestamp": 1701215263.034226,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_43.png",
+    "timestamp": 1701215264.4283268,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_55.png",
+    "timestamp": 1701215265.49051,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_29.png",
+    "timestamp": 1701215267.455395,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_19.png",
+    "timestamp": 1701215268.840918,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_52.png",
+    "timestamp": 1701215270.140148,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_46.png",
+    "timestamp": 1701215271.2538822,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_98.png",
+    "timestamp": 1701215272.47422,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_71.png",
+    "timestamp": 1701215274.325997,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_11.png",
+    "timestamp": 1701215275.514095,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_52.png",
+    "timestamp": 1701215276.8240168,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_0.png",
+    "timestamp": 1701215278.1120582,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_69.png",
+    "timestamp": 1701215279.406105,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_61.png",
+    "timestamp": 1701215280.7364259,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_28.png",
+    "timestamp": 1701215282.3132968,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_3.png",
+    "timestamp": 1701215283.721782,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_35.png",
+    "timestamp": 1701215285.1326761,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_39.png",
+    "timestamp": 1701215286.32335,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_91.png",
+    "timestamp": 1701215287.842366,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_62.png",
+    "timestamp": 1701215289.6273348,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_58.png",
+    "timestamp": 1701215291.146276,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_24.png",
+    "timestamp": 1701215292.443973,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_54.png",
+    "timestamp": 1701215293.682166,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_78.png",
+    "timestamp": 1701215295.121804,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_69.png",
+    "timestamp": 1701215296.3599691,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_62.png",
+    "timestamp": 1701215297.640985,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_62.png",
+    "timestamp": 1701215299.125338,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_62.png",
+    "timestamp": 1701215300.309669,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_24.png",
+    "timestamp": 1701215304.425156,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "farmer_9.png",
+    "timestamp": 1701215306.27113,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_24.png",
+    "timestamp": 1701215307.7911448,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_94.png",
+    "timestamp": 1701215309.031669,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_14.png",
+    "timestamp": 1701215310.501055,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_72.png",
+    "timestamp": 1701215311.943288,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_78.png",
+    "timestamp": 1701215313.348948,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_0.png",
+    "timestamp": 1701215316.4463391,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_20.png",
+    "timestamp": 1701215317.924969,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_35.png",
+    "timestamp": 1701215319.21445,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_90.png",
+    "timestamp": 1701215321.500468,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "teacher_9.png",
+    "timestamp": 1701215322.7054489,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_12.png",
+    "timestamp": 1701215326.0306292,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_91.png",
+    "timestamp": 1701215327.4249332,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_63.png",
+    "timestamp": 1701215328.999,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_3.png",
+    "timestamp": 1701215332.575022,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_11.png",
+    "timestamp": 1701215336.849508,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "farmer_96.png",
+    "timestamp": 1701215338.461069,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_69.png",
+    "timestamp": 1701215341.8711748,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "construction_worker_33.png",
+    "timestamp": 1701215343.389631,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_75.png",
+    "timestamp": 1701215344.895051,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_7.png",
+    "timestamp": 1701215346.20657,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_12.png",
+    "timestamp": 1701215347.683687,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_95.png",
+    "timestamp": 1701215349.065876,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_64.png",
+    "timestamp": 1701215350.616935,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_28.png",
+    "timestamp": 1701215351.9570959,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_53.png",
+    "timestamp": 1701215353.360842,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_94.png",
+    "timestamp": 1701215354.790209,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_68.png",
+    "timestamp": 1701215356.329576,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_7.png",
+    "timestamp": 1701215357.6824179,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_3.png",
+    "timestamp": 1701215358.8931048,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_44.png",
+    "timestamp": 1701215360.505863,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_96.png",
+    "timestamp": 1701215361.809914,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_56.png",
+    "timestamp": 1701215391.208052,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_8.png",
+    "timestamp": 1701215393.219131,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_86.png",
+    "timestamp": 1701215395.21071,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "teacher_74.png",
+    "timestamp": 1701215397.232007,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_61.png",
+    "timestamp": 1701215399.164119,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_17.png",
+    "timestamp": 1701215401.3993301,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_31.png",
+    "timestamp": 1701215402.626498,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "teacher_62.png",
+    "timestamp": 1701215407.8601909,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_29.png",
+    "timestamp": 1701215409.227911,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_35.png",
+    "timestamp": 1701215410.4731488,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_55.png",
+    "timestamp": 1701215411.627258,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_84.png",
+    "timestamp": 1701215412.795864,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_87.png",
+    "timestamp": 1701215415.279543,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_12.png",
+    "timestamp": 1701215416.593112,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_48.png",
+    "timestamp": 1701215418.2288342,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_18.png",
+    "timestamp": 1701215419.826829,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_92.png",
+    "timestamp": 1701215424.566735,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_94.png",
+    "timestamp": 1701215428.042808,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "fast food_worker_76.png",
+    "timestamp": 1701215430.880074,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_36.png",
+    "timestamp": 1701215432.394212,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_8.png",
+    "timestamp": 1701215433.698142,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_8.png",
+    "timestamp": 1701215435.141425,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_49.png",
+    "timestamp": 1701215438.741379,
+    "worker": "Abigail W",
+    "labels": ["men (S)", "unclear (F)"]
+  },
+  {
+    "image": "farmer_17.png",
+    "timestamp": 1701215440.203795,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_35.png",
+    "timestamp": 1701215441.633335,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_52.png",
+    "timestamp": 1701215442.942743,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_17.png",
+    "timestamp": 1701215451.283175,
+    "worker": "Abigail W",
+    "labels": ["men (S)", "unclear (F)"]
+  },
+  {
+    "image": "construction_worker_1.png",
+    "timestamp": 1701215452.853778,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_29.png",
+    "timestamp": 1701215455.699836,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_68.png",
+    "timestamp": 1701215457.0754619,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_66.png",
+    "timestamp": 1701215458.2346811,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_68.png",
+    "timestamp": 1701215460.753283,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_89.png",
+    "timestamp": 1701215495.092491,
+    "worker": "Abigail W",
+    "labels": ["men (S)", "children (D)"]
+  },
+  {
+    "image": "farmer_33.png",
+    "timestamp": 1701215497.9325209,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_8.png",
+    "timestamp": 1701215499.869303,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_19.png",
+    "timestamp": 1701215501.213117,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_13.png",
+    "timestamp": 1701215502.4358761,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_0.png",
+    "timestamp": 1701215503.650522,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_80.png",
+    "timestamp": 1701215506.753094,
+    "worker": "Abigail W",
+    "labels": ["men (S)", "unclear (F)"]
+  },
+  {
+    "image": "police_officer_10.png",
+    "timestamp": 1701215507.9808671,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_50.png",
+    "timestamp": 1701215509.97853,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_97.png",
+    "timestamp": 1701215511.643255,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_52.png",
+    "timestamp": 1701215518.729631,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "fast food_worker_84.png",
+    "timestamp": 1701215520.978219,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_2.png",
+    "timestamp": 1701215522.1514502,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_33.png",
+    "timestamp": 1701215523.276365,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_24.png",
+    "timestamp": 1701215524.6173341,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_82.png",
+    "timestamp": 1701215527.7545679,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_75.png",
+    "timestamp": 1701215530.565086,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_58.png",
+    "timestamp": 1701215531.762701,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_48.png",
+    "timestamp": 1701215533.226387,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "teacher_59.png",
+    "timestamp": 1701215534.612467,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_49.png",
+    "timestamp": 1701215535.828716,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_7.png",
+    "timestamp": 1701215538.300902,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_26.png",
+    "timestamp": 1701215539.417911,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_31.png",
+    "timestamp": 1701215540.6491442,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_46.png",
+    "timestamp": 1701215542.3522959,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_51.png",
+    "timestamp": 1701215543.794764,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_18.png",
+    "timestamp": 1701215546.853023,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_36.png",
+    "timestamp": 1701215548.247489,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_42.png",
+    "timestamp": 1701215549.428432,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_30.png",
+    "timestamp": 1701215550.858423,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_93.png",
+    "timestamp": 1701215552.4315891,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_84.png",
+    "timestamp": 1701215576.7011771,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_77.png",
+    "timestamp": 1701215578.139599,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_32.png",
+    "timestamp": 1701215579.589416,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_59.png",
+    "timestamp": 1701215580.863966,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_15.png",
+    "timestamp": 1701215582.5965528,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_43.png",
+    "timestamp": 1701215583.758068,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_2.png",
+    "timestamp": 1701215585.082564,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_66.png",
+    "timestamp": 1701215586.665673,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_17.png",
+    "timestamp": 1701215588.561688,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_5.png",
+    "timestamp": 1701215589.901969,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_80.png",
+    "timestamp": 1701215591.3279822,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_80.png",
+    "timestamp": 1701215595.244288,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "teacher_53.png",
+    "timestamp": 1701215597.582849,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_30.png",
+    "timestamp": 1701215599.2038982,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "teacher_40.png",
+    "timestamp": 1701215601.446927,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "cashier_76.png",
+    "timestamp": 1701215604.677809,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "teacher_16.png",
+    "timestamp": 1701215611.960681,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_70.png",
+    "timestamp": 1701215613.604085,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_20.png",
+    "timestamp": 1701215614.852472,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_22.png",
+    "timestamp": 1701215615.994655,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_2.png",
+    "timestamp": 1701215617.246018,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_10.png",
+    "timestamp": 1701215618.4187672,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_77.png",
+    "timestamp": 1701215624.434567,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_63.png",
+    "timestamp": 1701215625.967919,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_74.png",
+    "timestamp": 1701215627.21117,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_60.png",
+    "timestamp": 1701215628.8296058,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_38.png",
+    "timestamp": 1701215631.137502,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_85.png",
+    "timestamp": 1701215632.529435,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_65.png",
+    "timestamp": 1701215634.0893939,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_24.png",
+    "timestamp": 1701215635.33099,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_90.png",
+    "timestamp": 1701215636.771014,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_30.png",
+    "timestamp": 1701215637.981288,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_64.png",
+    "timestamp": 1701215639.084055,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_87.png",
+    "timestamp": 1701215640.325283,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_71.png",
+    "timestamp": 1701215641.5669298,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_91.png",
+    "timestamp": 1701215643.132386,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_42.png",
+    "timestamp": 1701215646.860789,
+    "worker": "Abigail W",
+    "labels": ["children (D)"]
+  },
+  {
+    "image": "fast food_worker_59.png",
+    "timestamp": 1701215648.2550452,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_99.png",
+    "timestamp": 1701215649.742178,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_68.png",
+    "timestamp": 1701215651.264277,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_45.png",
+    "timestamp": 1701215652.512358,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_61.png",
+    "timestamp": 1701215653.822579,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_74.png",
+    "timestamp": 1701215656.198399,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_85.png",
+    "timestamp": 1701215657.5004091,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_21.png",
+    "timestamp": 1701215659.153823,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_97.png",
+    "timestamp": 1701215660.480098,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_9.png",
+    "timestamp": 1701215661.830715,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_11.png",
+    "timestamp": 1701215664.48229,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_23.png",
+    "timestamp": 1701215669.1650949,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_10.png",
+    "timestamp": 1701215671.032212,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_90.png",
+    "timestamp": 1701215672.326584,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_44.png",
+    "timestamp": 1701215673.7392828,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_63.png",
+    "timestamp": 1701215675.079713,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_8.png",
+    "timestamp": 1701215676.249957,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_25.png",
+    "timestamp": 1701215677.995478,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_1.png",
+    "timestamp": 1701215750.539246,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "fast food_worker_85.png",
+    "timestamp": 1701215754.919026,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "fast food_worker_49.png",
+    "timestamp": 1701215759.0634189,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "teacher_33.png",
+    "timestamp": 1701215760.831573,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_72.png",
+    "timestamp": 1701215762.2196,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_26.png",
+    "timestamp": 1701215764.05296,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_81.png",
+    "timestamp": 1701215765.194879,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_70.png",
+    "timestamp": 1701215766.52193,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_63.png",
+    "timestamp": 1701215767.886105,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_41.png",
+    "timestamp": 1701215769.2165718,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_21.png",
+    "timestamp": 1701215770.35759,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_50.png",
+    "timestamp": 1701215771.834632,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_16.png",
+    "timestamp": 1701215773.196223,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_83.png",
+    "timestamp": 1701215774.7897222,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "fast food_worker_83.png",
+    "timestamp": 1701215776.983165,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_39.png",
+    "timestamp": 1701215778.279812,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_43.png",
+    "timestamp": 1701215780.0241559,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_90.png",
+    "timestamp": 1701215781.474729,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_13.png",
+    "timestamp": 1701215784.539499,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_39.png",
+    "timestamp": 1701215785.985445,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_45.png",
+    "timestamp": 1701215787.5190809,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_14.png",
+    "timestamp": 1701215788.9556081,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_22.png",
+    "timestamp": 1701215790.381205,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_30.png",
+    "timestamp": 1701215791.833316,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_31.png",
+    "timestamp": 1701215793.222811,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_42.png",
+    "timestamp": 1701215794.918654,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_95.png",
+    "timestamp": 1701215796.274344,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_20.png",
+    "timestamp": 1701215798.268626,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "teacher_46.png",
+    "timestamp": 1701215799.838303,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "teacher_1.png",
+    "timestamp": 1701215801.135638,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_20.png",
+    "timestamp": 1701215802.451064,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "farmer_71.png",
+    "timestamp": 1701215803.922797,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_95.png",
+    "timestamp": 1701215814.97447,
+    "worker": "Abigail W",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "cashier_15.png",
+    "timestamp": 1701215817.680943,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "janitor_91.png",
+    "timestamp": 1701215819.26723,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_47.png",
+    "timestamp": 1701215824.417224,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_33.png",
+    "timestamp": 1701215826.032487,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_99.png",
+    "timestamp": 1701215827.802094,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_86.png",
+    "timestamp": 1701215829.403392,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_26.png",
+    "timestamp": 1701215830.580084,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_86.png",
+    "timestamp": 1701215831.932252,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_96.png",
+    "timestamp": 1701215833.090817,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "teacher_96.png",
+    "timestamp": 1701215834.437491,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_97.png",
+    "timestamp": 1701215836.567103,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_53.png",
+    "timestamp": 1701215837.964201,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "police_officer_79.png",
+    "timestamp": 1701215839.104909,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "janitor_43.png",
+    "timestamp": 1701215840.313683,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "construction_worker_50.png",
+    "timestamp": 1701215841.851443,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_14.png",
+    "timestamp": 1701215843.332578,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "cashier_13.png",
+    "timestamp": 1701215844.635521,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "farmer_60.png",
+    "timestamp": 1701215845.989386,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_40.png",
+    "timestamp": 1701215847.370837,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_54.png",
+    "timestamp": 1701215848.730283,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "cashier_39.png",
+    "timestamp": 1701215850.033782,
+    "worker": "Abigail W",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "construction_worker_59.png",
+    "timestamp": 1701215851.198753,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "fast food_worker_36.png",
+    "timestamp": 1701215852.548643,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "police_officer_29.png",
+    "timestamp": 1701215853.815844,
+    "worker": "Abigail W",
+    "labels": ["men (S)"]
+  }
+]

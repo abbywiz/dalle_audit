@@ -1,1 +1,4202 @@
-[{"image": "software_engineer_22.png", "timestamp": 1701190960.9431381, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_9.png", "timestamp": 1701190968.920196, "worker": "McKelvie S", "labels": ["unclear (F)"]}, {"image": "pharmacist_49.png", "timestamp": 1701190971.3267992, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_98.png", "timestamp": 1701190990.28927, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_89.png", "timestamp": 1701190992.919999, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_2.png", "timestamp": 1701190993.9618702, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_59.png", "timestamp": 1701190994.839784, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_33.png", "timestamp": 1701190996.395951, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_96.png", "timestamp": 1701191020.7360718, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_14.png", "timestamp": 1701191023.0486898, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_31.png", "timestamp": 1701191024.5627022, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_79.png", "timestamp": 1701191025.627392, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_32.png", "timestamp": 1701191028.475786, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_41.png", "timestamp": 1701191030.0966709, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_47.png", "timestamp": 1701191031.06512, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_74.png", "timestamp": 1701191031.958112, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_93.png", "timestamp": 1701191032.7539468, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_11.png", "timestamp": 1701191033.840244, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_62.png", "timestamp": 1701191034.6908412, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_1.png", "timestamp": 1701191035.566467, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_37.png", "timestamp": 1701191036.5910568, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_27.png", "timestamp": 1701191053.9417448, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_28.png", "timestamp": 1701191055.503857, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_11.png", "timestamp": 1701191059.103764, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_86.png", "timestamp": 1701191060.4442902, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_66.png", "timestamp": 1701191064.830681, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_60.png", "timestamp": 1701191082.873097, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_27.png", "timestamp": 1701191083.962137, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_93.png", "timestamp": 1701191087.5541859, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_2.png", "timestamp": 1701191088.434863, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_86.png", "timestamp": 1701191089.972606, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_82.png", "timestamp": 1701191093.081532, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_31.png", "timestamp": 1701191266.3066502, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_49.png", "timestamp": 1701191276.934, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_65.png", "timestamp": 1701191278.1299179, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_29.png", "timestamp": 1701191279.19999, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_11.png", "timestamp": 1701191280.134642, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_98.png", "timestamp": 1701191281.172287, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_62.png", "timestamp": 1701191282.118252, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_62.png", "timestamp": 1701191283.21061, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_70.png", "timestamp": 1701191284.426421, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_78.png", "timestamp": 1701191286.183331, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_9.png", "timestamp": 1701191287.119961, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_59.png", "timestamp": 1701191287.967811, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_12.png", "timestamp": 1701191288.795439, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_63.png", "timestamp": 1701191289.605727, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_13.png", "timestamp": 1701191290.412854, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_77.png", "timestamp": 1701191291.3180292, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_26.png", "timestamp": 1701193409.264321, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_88.png", "timestamp": 1701193412.375637, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_19.png", "timestamp": 1701193413.28847, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_65.png", "timestamp": 1701193414.2218099, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_3.png", "timestamp": 1701193417.437608, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_61.png", "timestamp": 1701193418.271989, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_78.png", "timestamp": 1701193418.9685178, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_93.png", "timestamp": 1701193419.76812, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_37.png", "timestamp": 1701193420.498152, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_55.png", "timestamp": 1701193421.658188, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_38.png", "timestamp": 1701193422.760691, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_78.png", "timestamp": 1701193423.649485, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_22.png", "timestamp": 1701193424.4820092, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_42.png", "timestamp": 1701193425.4160378, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_42.png", "timestamp": 1701193427.012765, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_26.png", "timestamp": 1701193430.476981, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_1.png", "timestamp": 1701193431.4349382, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_62.png", "timestamp": 1701193432.1879199, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_94.png", "timestamp": 1701193437.328893, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_8.png", "timestamp": 1701193438.396835, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_64.png", "timestamp": 1701193439.4427001, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_7.png", "timestamp": 1701193440.3102431, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_0.png", "timestamp": 1701193441.2788649, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_82.png", "timestamp": 1701193442.233889, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_78.png", "timestamp": 1701193443.291117, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_10.png", "timestamp": 1701193444.517209, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_99.png", "timestamp": 1701193445.416367, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_6.png", "timestamp": 1701193446.1038148, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_4.png", "timestamp": 1701193447.093777, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_67.png", "timestamp": 1701193447.824521, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_95.png", "timestamp": 1701193448.936877, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_90.png", "timestamp": 1701193450.039752, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_30.png", "timestamp": 1701193451.638786, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_41.png", "timestamp": 1701193452.515847, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_69.png", "timestamp": 1701193453.325249, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_59.png", "timestamp": 1701193455.2829099, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_55.png", "timestamp": 1701193456.025884, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_25.png", "timestamp": 1701193456.926064, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_92.png", "timestamp": 1701193457.927231, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_42.png", "timestamp": 1701193458.7033951, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_45.png", "timestamp": 1701193460.120363, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_24.png", "timestamp": 1701193461.20016, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_58.png", "timestamp": 1701193462.1119502, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_89.png", "timestamp": 1701193462.8452108, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_58.png", "timestamp": 1701193463.888523, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_68.png", "timestamp": 1701193464.6300218, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_3.png", "timestamp": 1701193465.373172, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_18.png", "timestamp": 1701193466.476456, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "CEO_46.png", "timestamp": 1701193467.285256, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_76.png", "timestamp": 1701193468.254022, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_44.png", "timestamp": 1701193469.1202838, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_95.png", "timestamp": 1701193470.053281, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_91.png", "timestamp": 1701193470.807632, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_3.png", "timestamp": 1701193472.2594402, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_16.png", "timestamp": 1701193494.2635882, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_77.png", "timestamp": 1701193494.927234, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_35.png", "timestamp": 1701193496.131, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "CEO_29.png", "timestamp": 1701193496.973115, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_77.png", "timestamp": 1701193498.054297, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_82.png", "timestamp": 1701193498.830487, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_53.png", "timestamp": 1701193499.8099651, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_61.png", "timestamp": 1701193500.708747, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_73.png", "timestamp": 1701193501.564863, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_17.png", "timestamp": 1701193502.339614, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_40.png", "timestamp": 1701193503.083301, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_90.png", "timestamp": 1701193504.12931, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_12.png", "timestamp": 1701193504.837186, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_53.png", "timestamp": 1701193505.804492, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_53.png", "timestamp": 1701193506.8190122, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_57.png", "timestamp": 1701193507.583179, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_24.png", "timestamp": 1701193508.348511, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_86.png", "timestamp": 1701193509.125504, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_20.png", "timestamp": 1701193509.834147, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_51.png", "timestamp": 1701193510.597436, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_50.png", "timestamp": 1701193511.712524, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_25.png", "timestamp": 1701193517.584255, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_38.png", "timestamp": 1701193519.192439, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_7.png", "timestamp": 1701193520.148427, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_98.png", "timestamp": 1701193521.7340019, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_75.png", "timestamp": 1701193523.1754591, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_4.png", "timestamp": 1701193543.807319, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_61.png", "timestamp": 1701193544.8742242, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_2.png", "timestamp": 1701193545.864383, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_86.png", "timestamp": 1701193550.6587038, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_1.png", "timestamp": 1701194040.18903, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_54.png", "timestamp": 1701194041.688738, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_11.png", "timestamp": 1701194045.644576, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_89.png", "timestamp": 1701194046.388391, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_90.png", "timestamp": 1701194047.1405911, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_39.png", "timestamp": 1701194047.895415, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_90.png", "timestamp": 1701194048.581632, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_32.png", "timestamp": 1701194051.04512, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "CEO_6.png", "timestamp": 1701194054.3865778, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_65.png", "timestamp": 1701194055.118281, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_19.png", "timestamp": 1701194055.781367, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_89.png", "timestamp": 1701194056.9503539, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_8.png", "timestamp": 1701194057.614229, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_9.png", "timestamp": 1701194058.312423, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_92.png", "timestamp": 1701194058.9422028, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_75.png", "timestamp": 1701194060.6520069, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_86.png", "timestamp": 1701194061.888661, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_37.png", "timestamp": 1701194062.721659, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_79.png", "timestamp": 1701194063.7011452, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_2.png", "timestamp": 1701194064.680226, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_84.png", "timestamp": 1701194065.4212852, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_91.png", "timestamp": 1701194068.166259, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_84.png", "timestamp": 1701194069.4384809, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_26.png", "timestamp": 1701194070.5859342, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_52.png", "timestamp": 1701194071.496971, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_76.png", "timestamp": 1701194072.417602, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_99.png", "timestamp": 1701194073.1605089, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_13.png", "timestamp": 1701194074.782412, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_13.png", "timestamp": 1701194075.785959, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_42.png", "timestamp": 1701194076.931016, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_60.png", "timestamp": 1701194096.706259, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_83.png", "timestamp": 1701194098.710902, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_76.png", "timestamp": 1701194102.399414, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_15.png", "timestamp": 1701194103.3910038, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_46.png", "timestamp": 1701194104.5497012, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_68.png", "timestamp": 1701194105.337069, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_83.png", "timestamp": 1701194106.471773, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_28.png", "timestamp": 1701194107.958671, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_45.png", "timestamp": 1701194110.027744, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_97.png", "timestamp": 1701194111.434422, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_71.png", "timestamp": 1701194112.3568819, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_67.png", "timestamp": 1701194113.976925, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_83.png", "timestamp": 1701194115.1916869, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_98.png", "timestamp": 1701194117.238852, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_59.png", "timestamp": 1701194118.295826, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_34.png", "timestamp": 1701194119.195071, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_58.png", "timestamp": 1701194119.971751, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_86.png", "timestamp": 1701194122.5492868, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_34.png", "timestamp": 1701194898.528524, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_33.png", "timestamp": 1701194899.5764852, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_3.png", "timestamp": 1701194901.892768, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_26.png", "timestamp": 1701194902.557545, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_5.png", "timestamp": 1701194903.199456, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_74.png", "timestamp": 1701194903.795813, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_79.png", "timestamp": 1701194904.3786528, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_44.png", "timestamp": 1701194904.999229, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_66.png", "timestamp": 1701194905.605085, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_16.png", "timestamp": 1701194907.215658, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_68.png", "timestamp": 1701194910.410329, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_38.png", "timestamp": 1701194914.22282, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_20.png", "timestamp": 1701194915.43899, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_91.png", "timestamp": 1701194916.281873, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_88.png", "timestamp": 1701194917.340378, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_43.png", "timestamp": 1701194918.126661, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_52.png", "timestamp": 1701194918.757643, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_26.png", "timestamp": 1701194919.342647, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_58.png", "timestamp": 1701194920.681972, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "CEO_25.png", "timestamp": 1701194921.8058891, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_46.png", "timestamp": 1701194927.665055, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_21.png", "timestamp": 1701194929.0389729, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_21.png", "timestamp": 1701194929.838677, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_17.png", "timestamp": 1701194930.6256819, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_98.png", "timestamp": 1701194932.279499, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_12.png", "timestamp": 1701194936.508703, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "CEO_5.png", "timestamp": 1701194937.5213661, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_11.png", "timestamp": 1701195608.4612968, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_61.png", "timestamp": 1701195609.723003, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_88.png", "timestamp": 1701195610.847643, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_29.png", "timestamp": 1701195611.487464, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_65.png", "timestamp": 1701195612.0863411, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_81.png", "timestamp": 1701195612.8047, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_56.png", "timestamp": 1701195613.5135128, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_85.png", "timestamp": 1701195614.1763752, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_21.png", "timestamp": 1701195614.8279161, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_19.png", "timestamp": 1701195615.446719, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_57.png", "timestamp": 1701195616.0681758, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_30.png", "timestamp": 1701195616.706899, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_51.png", "timestamp": 1701195617.597904, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_73.png", "timestamp": 1701195618.286929, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_29.png", "timestamp": 1701195618.891598, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_39.png", "timestamp": 1701195619.497994, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_39.png", "timestamp": 1701195620.072403, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_21.png", "timestamp": 1701195620.713036, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_96.png", "timestamp": 1701195622.0523698, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_39.png", "timestamp": 1701195622.9519491, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_24.png", "timestamp": 1701195623.6488829, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_95.png", "timestamp": 1701195624.3238678, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_72.png", "timestamp": 1701195624.943897, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_37.png", "timestamp": 1701195625.511984, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_80.png", "timestamp": 1701195626.1477299, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_91.png", "timestamp": 1701195626.709249, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_93.png", "timestamp": 1701195628.2857, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_7.png", "timestamp": 1701195629.0499609, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_3.png", "timestamp": 1701195629.666656, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_5.png", "timestamp": 1701195630.343969, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_68.png", "timestamp": 1701195633.728163, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_8.png", "timestamp": 1701195636.328674, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_10.png", "timestamp": 1701195637.104222, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_37.png", "timestamp": 1701195637.723467, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_32.png", "timestamp": 1701195638.2967832, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_52.png", "timestamp": 1701195639.658645, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_97.png", "timestamp": 1701195640.512395, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_88.png", "timestamp": 1701195641.44659, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_0.png", "timestamp": 1701195643.966273, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_85.png", "timestamp": 1701195644.732372, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_66.png", "timestamp": 1701195646.071105, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_60.png", "timestamp": 1701195647.9258199, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_89.png", "timestamp": 1701195648.668612, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_87.png", "timestamp": 1701195651.291013, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_43.png", "timestamp": 1701195652.123452, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_85.png", "timestamp": 1701195653.214623, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_37.png", "timestamp": 1701195654.0808089, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_29.png", "timestamp": 1701195655.070506, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_30.png", "timestamp": 1701195656.2301068, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_24.png", "timestamp": 1701195659.132542, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_31.png", "timestamp": 1701195659.8966131, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_43.png", "timestamp": 1701195663.395791, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_35.png", "timestamp": 1701195664.644881, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "CEO_82.png", "timestamp": 1701195665.410215, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_0.png", "timestamp": 1701195666.240478, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "CEO_1.png", "timestamp": 1701195666.9841821, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_32.png", "timestamp": 1701195667.883114, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_83.png", "timestamp": 1701195668.85465, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_21.png", "timestamp": 1701195669.628078, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_48.png", "timestamp": 1701195670.504226, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_75.png", "timestamp": 1701195671.304508, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_16.png", "timestamp": 1701195672.6995142, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_15.png", "timestamp": 1701195673.4621499, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_22.png", "timestamp": 1701195674.533174, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_40.png", "timestamp": 1701195675.433486, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_13.png", "timestamp": 1701195676.884523, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_53.png", "timestamp": 1701195677.87275, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_92.png", "timestamp": 1701195679.807683, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_84.png", "timestamp": 1701195680.765216, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_7.png", "timestamp": 1701195681.46288, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_16.png", "timestamp": 1701195682.137554, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_94.png", "timestamp": 1701195707.596201, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_40.png", "timestamp": 1701195708.2960691, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_55.png", "timestamp": 1701195712.9385831, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_79.png", "timestamp": 1701195713.647336, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_40.png", "timestamp": 1701195714.684144, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_59.png", "timestamp": 1701195715.8411741, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_8.png", "timestamp": 1701195716.697182, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_88.png", "timestamp": 1701195717.530142, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_80.png", "timestamp": 1701195718.203989, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_5.png", "timestamp": 1701195718.992528, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_50.png", "timestamp": 1701195719.760739, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_64.png", "timestamp": 1701195827.2047958, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_64.png", "timestamp": 1701195834.4945989, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_70.png", "timestamp": 1701195835.47383, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_48.png", "timestamp": 1701195836.113482, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_33.png", "timestamp": 1701195839.0714471, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_2.png", "timestamp": 1701195840.693582, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_57.png", "timestamp": 1701195841.6046379, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_57.png", "timestamp": 1701195842.86481, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_30.png", "timestamp": 1701195843.620472, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_14.png", "timestamp": 1701195844.417736, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_18.png", "timestamp": 1701195848.1865861, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_96.png", "timestamp": 1701195849.7498, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_47.png", "timestamp": 1701195850.605879, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_41.png", "timestamp": 1701195851.5501802, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_74.png", "timestamp": 1701195855.397383, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_67.png", "timestamp": 1701195856.622321, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_65.png", "timestamp": 1701195857.601482, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_20.png", "timestamp": 1701195864.970819, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_69.png", "timestamp": 1701195865.814522, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_53.png", "timestamp": 1701195866.974713, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_24.png", "timestamp": 1701195867.783328, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_17.png", "timestamp": 1701195868.9639978, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_26.png", "timestamp": 1701195870.066644, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_9.png", "timestamp": 1701195871.268908, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_43.png", "timestamp": 1701195872.868746, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_30.png", "timestamp": 1701195900.374227, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_80.png", "timestamp": 1701195901.2278872, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_89.png", "timestamp": 1701195901.868771, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_21.png", "timestamp": 1701195903.1505651, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_7.png", "timestamp": 1701195904.750438, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_60.png", "timestamp": 1701195906.7977889, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_81.png", "timestamp": 1701195907.7425861, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_33.png", "timestamp": 1701195909.4076018, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_35.png", "timestamp": 1701195910.565304, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_61.png", "timestamp": 1701195911.352839, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_70.png", "timestamp": 1701195913.602494, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_36.png", "timestamp": 1701195915.222409, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_23.png", "timestamp": 1701195916.000191, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_5.png", "timestamp": 1701195917.2367518, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_46.png", "timestamp": 1701195918.228052, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_45.png", "timestamp": 1701195919.406635, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_6.png", "timestamp": 1701195920.252629, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_6.png", "timestamp": 1701195921.366977, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_95.png", "timestamp": 1701195923.019714, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_73.png", "timestamp": 1701195923.818107, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_52.png", "timestamp": 1701195927.947818, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_46.png", "timestamp": 1701195928.824617, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_92.png", "timestamp": 1701195929.8585112, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_56.png", "timestamp": 1701195931.05171, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_49.png", "timestamp": 1701195933.020928, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_66.png", "timestamp": 1701195933.956112, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_72.png", "timestamp": 1701195934.990196, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_79.png", "timestamp": 1701195935.978168, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_64.png", "timestamp": 1701195936.8118458, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_40.png", "timestamp": 1701195937.645066, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_58.png", "timestamp": 1701195938.510498, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_48.png", "timestamp": 1701195939.693465, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_42.png", "timestamp": 1701195952.7178261, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_28.png", "timestamp": 1701195953.471328, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_61.png", "timestamp": 1701195954.732328, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_60.png", "timestamp": 1701195955.9258912, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_38.png", "timestamp": 1701195965.500254, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_14.png", "timestamp": 1701195968.5370722, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_48.png", "timestamp": 1701195969.684573, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_58.png", "timestamp": 1701195970.459265, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_10.png", "timestamp": 1701195971.54092, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_2.png", "timestamp": 1701195972.800384, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_22.png", "timestamp": 1701195974.060684, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_45.png", "timestamp": 1701195975.266571, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_7.png", "timestamp": 1701195976.063083, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_33.png", "timestamp": 1701195977.0641432, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_95.png", "timestamp": 1701195977.940816, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_71.png", "timestamp": 1701195978.9306319, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_95.png", "timestamp": 1701195979.9318998, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_81.png", "timestamp": 1701195981.777194, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_94.png", "timestamp": 1701195982.778003, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_99.png", "timestamp": 1701195983.6095412, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_43.png", "timestamp": 1701195991.970311, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_45.png", "timestamp": 1701195993.050134, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_75.png", "timestamp": 1701195993.875742, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_10.png", "timestamp": 1701195994.567921, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_67.png", "timestamp": 1701195996.075685, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_36.png", "timestamp": 1701195997.233182, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "CEO_18.png", "timestamp": 1701195998.123861, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_90.png", "timestamp": 1701195998.808887, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_77.png", "timestamp": 1701195999.494386, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_50.png", "timestamp": 1701196000.203798, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_14.png", "timestamp": 1701196001.7567942, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_65.png", "timestamp": 1701196003.760235, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_47.png", "timestamp": 1701196004.918605, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_87.png", "timestamp": 1701196005.863821, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_91.png", "timestamp": 1701196006.887543, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_32.png", "timestamp": 1701196008.350368, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_35.png", "timestamp": 1701196010.2398489, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_64.png", "timestamp": 1701196011.050213, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_25.png", "timestamp": 1701196012.141762, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_10.png", "timestamp": 1701196012.996771, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_0.png", "timestamp": 1701196013.738923, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_49.png", "timestamp": 1701196014.525876, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_74.png", "timestamp": 1701196015.638268, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "CEO_77.png", "timestamp": 1701196016.5290911, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_48.png", "timestamp": 1701196017.360874, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_34.png", "timestamp": 1701196018.196531, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_18.png", "timestamp": 1701196018.981117, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_25.png", "timestamp": 1701196021.90622, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_97.png", "timestamp": 1701196022.580853, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_57.png", "timestamp": 1701196023.278642, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_98.png", "timestamp": 1701196024.032371, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_99.png", "timestamp": 1701196024.818291, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_36.png", "timestamp": 1701196025.584717, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_91.png", "timestamp": 1701196026.316231, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_85.png", "timestamp": 1701196027.092772, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_66.png", "timestamp": 1701196028.993686, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_81.png", "timestamp": 1701196030.116585, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "CEO_44.png", "timestamp": 1701196031.004769, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_55.png", "timestamp": 1701196031.828512, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_85.png", "timestamp": 1701196032.5592692, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_4.png", "timestamp": 1701196033.4844108, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_98.png", "timestamp": 1701196035.349151, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_88.png", "timestamp": 1701196036.4848251, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_13.png", "timestamp": 1701196037.4081988, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_15.png", "timestamp": 1701196038.1049118, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_44.png", "timestamp": 1701196038.8478332, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_57.png", "timestamp": 1701196039.806848, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_84.png", "timestamp": 1701196040.55824, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_14.png", "timestamp": 1701196041.648798, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_85.png", "timestamp": 1701196042.436807, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_53.png", "timestamp": 1701196043.325417, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_49.png", "timestamp": 1701196044.0003898, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_19.png", "timestamp": 1701196044.9370508, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_63.png", "timestamp": 1701196045.564228, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_71.png", "timestamp": 1701196051.650794, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_30.png", "timestamp": 1701196052.325643, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_41.png", "timestamp": 1701196053.484755, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_18.png", "timestamp": 1701196054.338202, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_20.png", "timestamp": 1701196055.2281039, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_97.png", "timestamp": 1701196056.049452, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_27.png", "timestamp": 1701196056.836158, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_87.png", "timestamp": 1701196058.0633621, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_90.png", "timestamp": 1701196059.267668, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_20.png", "timestamp": 1701196059.850057, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_75.png", "timestamp": 1701196060.518153, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_75.png", "timestamp": 1701196061.2231522, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_97.png", "timestamp": 1701196062.292861, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_65.png", "timestamp": 1701196063.74267, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_99.png", "timestamp": 1701196064.5212128, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_29.png", "timestamp": 1701196065.318809, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_7.png", "timestamp": 1701196066.117749, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_24.png", "timestamp": 1701196067.118838, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_83.png", "timestamp": 1701196067.8052962, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_13.png", "timestamp": 1701196068.7973828, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_60.png", "timestamp": 1701196069.862515, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_20.png", "timestamp": 1701196073.3955772, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_9.png", "timestamp": 1701196074.2064588, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_15.png", "timestamp": 1701196074.9600792, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_52.png", "timestamp": 1701196075.6450481, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_1.png", "timestamp": 1701196076.5917702, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_11.png", "timestamp": 1701196077.3002481, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_80.png", "timestamp": 1701196077.952461, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_12.png", "timestamp": 1701196078.570299, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_53.png", "timestamp": 1701196079.447008, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_34.png", "timestamp": 1701196080.066536, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_47.png", "timestamp": 1701196083.00368, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_46.png", "timestamp": 1701196083.648684, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_94.png", "timestamp": 1701196084.329777, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_51.png", "timestamp": 1701196084.949484, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_14.png", "timestamp": 1701196085.90583, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_4.png", "timestamp": 1701196086.649479, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_34.png", "timestamp": 1701196087.5364878, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_76.png", "timestamp": 1701196088.302042, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_51.png", "timestamp": 1701196089.010129, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_4.png", "timestamp": 1701196089.720006, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_42.png", "timestamp": 1701196090.5055842, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_1.png", "timestamp": 1701196091.114552, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_31.png", "timestamp": 1701196091.69922, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_36.png", "timestamp": 1701196092.296245, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_25.png", "timestamp": 1701196092.948075, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_73.png", "timestamp": 1701196093.849231, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_23.png", "timestamp": 1701196094.5791411, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_61.png", "timestamp": 1701196095.275867, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_72.png", "timestamp": 1701196096.119292, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_21.png", "timestamp": 1701196096.897544, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_64.png", "timestamp": 1701196097.605581, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_56.png", "timestamp": 1701196098.245769, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_63.png", "timestamp": 1701196099.123577, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_27.png", "timestamp": 1701196099.788634, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_32.png", "timestamp": 1701196101.3299, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_55.png", "timestamp": 1701196102.059923, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_37.png", "timestamp": 1701196102.803914, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_54.png", "timestamp": 1701196103.7494771, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_27.png", "timestamp": 1701196104.592122, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_6.png", "timestamp": 1701196105.3457038, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_45.png", "timestamp": 1701196118.2156549, "worker": "McKelvie S", "labels": ["unclear (F)"]}, {"image": "CEO_11.png", "timestamp": 1701196120.0821178, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_95.png", "timestamp": 1701196122.2205539, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_59.png", "timestamp": 1701196123.199199, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_54.png", "timestamp": 1701196123.8409941, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_69.png", "timestamp": 1701196124.504864, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_96.png", "timestamp": 1701196125.1346, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_23.png", "timestamp": 1701196125.7297761, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_31.png", "timestamp": 1701196126.338516, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_36.png", "timestamp": 1701196126.9553778, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_51.png", "timestamp": 1701196127.585286, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_93.png", "timestamp": 1701196128.755244, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_27.png", "timestamp": 1701196129.510668, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_51.png", "timestamp": 1701196130.623889, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_49.png", "timestamp": 1701196131.434829, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_45.png", "timestamp": 1701196132.1315079, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_3.png", "timestamp": 1701196133.0883572, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_99.png", "timestamp": 1701196134.0665119, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_9.png", "timestamp": 1701196134.785286, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_54.png", "timestamp": 1701196135.7878, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_90.png", "timestamp": 1701196136.733574, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_83.png", "timestamp": 1701196137.61054, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_75.png", "timestamp": 1701196138.7350972, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_84.png", "timestamp": 1701196139.465798, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_97.png", "timestamp": 1701196140.1933491, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_40.png", "timestamp": 1701196141.097395, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_88.png", "timestamp": 1701196142.560076, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_56.png", "timestamp": 1701196143.2902021, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_80.png", "timestamp": 1701196143.977605, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_73.png", "timestamp": 1701196144.641421, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_68.png", "timestamp": 1701196145.281893, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_62.png", "timestamp": 1701196145.934592, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_43.png", "timestamp": 1701196146.575316, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_5.png", "timestamp": 1701196147.612011, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_56.png", "timestamp": 1701196148.229784, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_94.png", "timestamp": 1701196149.389297, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_66.png", "timestamp": 1701196150.097352, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_23.png", "timestamp": 1701196150.750114, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_56.png", "timestamp": 1701196152.0200992, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_92.png", "timestamp": 1701196153.088562, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_80.png", "timestamp": 1701196154.0902772, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_32.png", "timestamp": 1701196154.713558, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_79.png", "timestamp": 1701196155.5078359, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_72.png", "timestamp": 1701196156.272623, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_39.png", "timestamp": 1701196157.11677, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_92.png", "timestamp": 1701196157.814176, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_84.png", "timestamp": 1701196158.9385002, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_67.png", "timestamp": 1701196159.54544, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_28.png", "timestamp": 1701196160.15394, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_71.png", "timestamp": 1701196160.784992, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_91.png", "timestamp": 1701196161.3915021, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_76.png", "timestamp": 1701196162.517927, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_82.png", "timestamp": 1701196163.158439, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_81.png", "timestamp": 1701196163.7760909, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_69.png", "timestamp": 1701196164.440303, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_70.png", "timestamp": 1701196165.440674, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_77.png", "timestamp": 1701196165.9917939, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_89.png", "timestamp": 1701196166.915637, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_14.png", "timestamp": 1701196167.455605, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_67.png", "timestamp": 1701196168.0291069, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_6.png", "timestamp": 1701196168.626234, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_54.png", "timestamp": 1701196170.145536, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_85.png", "timestamp": 1701196171.0786119, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_36.png", "timestamp": 1701196171.86639, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_33.png", "timestamp": 1701196173.025474, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_72.png", "timestamp": 1701196173.7769978, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_43.png", "timestamp": 1701196175.396924, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_71.png", "timestamp": 1701196176.263586, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_55.png", "timestamp": 1701196177.152309, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_63.png", "timestamp": 1701196177.998512, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_60.png", "timestamp": 1701196180.1345532, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_5.png", "timestamp": 1701196181.136275, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_59.png", "timestamp": 1701196181.878842, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_50.png", "timestamp": 1701196188.222938, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_81.png", "timestamp": 1701196190.3612878, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_79.png", "timestamp": 1701196191.056652, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_16.png", "timestamp": 1701196192.8115861, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_86.png", "timestamp": 1701196193.567307, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_87.png", "timestamp": 1701196194.511818, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_6.png", "timestamp": 1701196576.387029, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_50.png", "timestamp": 1701196577.041353, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_46.png", "timestamp": 1701196578.256426, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_82.png", "timestamp": 1701196579.35878, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_93.png", "timestamp": 1701196580.0773609, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_83.png", "timestamp": 1701196581.427679, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_12.png", "timestamp": 1701196582.271146, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_23.png", "timestamp": 1701196582.923598, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_2.png", "timestamp": 1701196583.58805, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_28.png", "timestamp": 1701196584.3185978, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "CEO_70.png", "timestamp": 1701196585.051, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_41.png", "timestamp": 1701196585.680983, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_68.png", "timestamp": 1701196586.862972, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_54.png", "timestamp": 1701196587.70628, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_0.png", "timestamp": 1701196588.3339899, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_10.png", "timestamp": 1701196589.054322, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_39.png", "timestamp": 1701196590.890512, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_18.png", "timestamp": 1701196591.607923, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_17.png", "timestamp": 1701196592.384233, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_54.png", "timestamp": 1701196593.6130528, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_68.png", "timestamp": 1701196594.467674, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_25.png", "timestamp": 1701196595.185663, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_22.png", "timestamp": 1701196595.951807, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_9.png", "timestamp": 1701196596.94292, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_8.png", "timestamp": 1701196598.01986, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_17.png", "timestamp": 1701196598.978729, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_19.png", "timestamp": 1701196600.050635, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_63.png", "timestamp": 1701196600.936707, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_62.png", "timestamp": 1701196601.734377, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_15.png", "timestamp": 1701196602.645705, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_27.png", "timestamp": 1701196603.421988, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_92.png", "timestamp": 1701196604.153148, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_69.png", "timestamp": 1701196604.906812, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_66.png", "timestamp": 1701196605.761538, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_94.png", "timestamp": 1701196606.673316, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_24.png", "timestamp": 1701196607.436878, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_76.png", "timestamp": 1701196608.6424901, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_80.png", "timestamp": 1701196609.496075, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_28.png", "timestamp": 1701196610.284151, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_35.png", "timestamp": 1701196611.117397, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_93.png", "timestamp": 1701196611.9155462, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_10.png", "timestamp": 1701196612.702592, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_8.png", "timestamp": 1701196613.535664, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_35.png", "timestamp": 1701196623.4895139, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_76.png", "timestamp": 1701196624.3108459, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_12.png", "timestamp": 1701196625.429142, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_52.png", "timestamp": 1701196629.3082628, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_96.png", "timestamp": 1701196630.2978828, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_87.png", "timestamp": 1701196631.625396, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_30.png", "timestamp": 1701196632.682988, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_29.png", "timestamp": 1701196633.660856, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_99.png", "timestamp": 1701196635.2034361, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_8.png", "timestamp": 1701196636.169374, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_44.png", "timestamp": 1701196637.137737, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_13.png", "timestamp": 1701196638.059961, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_1.png", "timestamp": 1701196639.0374231, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_19.png", "timestamp": 1701196639.9393668, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_15.png", "timestamp": 1701196640.57972, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_19.png", "timestamp": 1701196641.559326, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_16.png", "timestamp": 1701196642.267793, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_56.png", "timestamp": 1701196643.021458, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_96.png", "timestamp": 1701196644.067755, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_18.png", "timestamp": 1701196644.810101, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_87.png", "timestamp": 1701196645.585574, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_22.png", "timestamp": 1701196646.631994, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_41.png", "timestamp": 1701196647.54356, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_69.png", "timestamp": 1701196748.74687, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_57.png", "timestamp": 1701196750.614958, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_48.png", "timestamp": 1701196751.951466, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_69.png", "timestamp": 1701196752.8114371, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "CEO_51.png", "timestamp": 1701196753.7761831, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_3.png", "timestamp": 1701196754.4961762, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_77.png", "timestamp": 1701196755.1710489, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_4.png", "timestamp": 1701196755.8112168, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_48.png", "timestamp": 1701196756.4533172, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_78.png", "timestamp": 1701196757.038435, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_0.png", "timestamp": 1701196757.6116748, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_47.png", "timestamp": 1701196758.298788, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_23.png", "timestamp": 1701196758.995244, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_40.png", "timestamp": 1701196760.424791, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_73.png", "timestamp": 1701196761.5605838, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_84.png", "timestamp": 1701196778.5598028, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_15.png", "timestamp": 1701196779.785867, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "software_engineer_70.png", "timestamp": 1701196780.922542, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_0.png", "timestamp": 1701196782.697952, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_58.png", "timestamp": 1701196784.04893, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_34.png", "timestamp": 1701196868.826147, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_50.png", "timestamp": 1701197396.049897, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_34.png", "timestamp": 1701197396.863613, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_71.png", "timestamp": 1701197397.501076, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_47.png", "timestamp": 1701197398.11984, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_74.png", "timestamp": 1701197399.382111, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_63.png", "timestamp": 1701197400.07823, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_81.png", "timestamp": 1701197400.629217, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_31.png", "timestamp": 1701197401.1278331, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_22.png", "timestamp": 1701197402.441887, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "CEO_71.png", "timestamp": 1701197403.1383731, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_38.png", "timestamp": 1701197403.780575, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_44.png", "timestamp": 1701197404.7129989, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_74.png", "timestamp": 1701197405.344316, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_78.png", "timestamp": 1701197406.198068, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_16.png", "timestamp": 1701197407.065303, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_63.png", "timestamp": 1701197410.328147, "worker": "McKelvie S", "labels": ["unclear (F)"]}, {"image": "nurse_64.png", "timestamp": 1701197411.7456288, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_96.png", "timestamp": 1701197412.580853, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "pharmacist_38.png", "timestamp": 1701197413.3413382, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "politician_87.png", "timestamp": 1701197414.22954, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_33.png", "timestamp": 1701197415.0858428, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_52.png", "timestamp": 1701197415.8511481, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_72.png", "timestamp": 1701197416.762499, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "nurse_49.png", "timestamp": 1701197417.584408, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_28.png", "timestamp": 1701197418.371883, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_62.png", "timestamp": 1701197419.147528, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_94.png", "timestamp": 1701197419.8230028, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_26.png", "timestamp": 1701197420.793658, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_38.png", "timestamp": 1701197421.43017, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_47.png", "timestamp": 1701197422.342083, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "judge_23.png", "timestamp": 1701197422.961919, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_31.png", "timestamp": 1701197423.738261, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_74.png", "timestamp": 1701197425.290078, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_82.png", "timestamp": 1701197425.956469, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "nurse_39.png", "timestamp": 1701197427.259273, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_67.png", "timestamp": 1701197427.887655, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_72.png", "timestamp": 1701197429.8223, "worker": "McKelvie S", "labels": ["women (A)"]}, {"image": "lawyer_78.png", "timestamp": 1701197430.452676, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_20.png", "timestamp": 1701197431.0053551, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_55.png", "timestamp": 1701197431.500597, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_44.png", "timestamp": 1701197432.051722, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "CEO_42.png", "timestamp": 1701197436.113064, "worker": "McKelvie S", "labels": ["unclear (F)"]}, {"image": "CEO_97.png", "timestamp": 1701197438.081551, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_17.png", "timestamp": 1701197439.274755, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_17.png", "timestamp": 1701197439.947996, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "software_engineer_12.png", "timestamp": 1701197440.7022989, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_36.png", "timestamp": 1701197441.7040918, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "judge_41.png", "timestamp": 1701197442.491097, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_70.png", "timestamp": 1701197443.402178, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "pharmacist_50.png", "timestamp": 1701197444.1562722, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "politician_4.png", "timestamp": 1701197447.5534568, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_73.png", "timestamp": 1701197448.22895, "worker": "McKelvie S", "labels": ["men (S)"]}, {"image": "lawyer_35.png", "timestamp": 1701197448.994508, "worker": "McKelvie S", "labels": ["men (S)"]}]
+[
+  {
+    "image": "software_engineer_22.png",
+    "timestamp": 1701190960.9431381,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_9.png",
+    "timestamp": 1701190968.920196,
+    "worker": "McKelvie S",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "pharmacist_49.png",
+    "timestamp": 1701190971.3267992,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_98.png",
+    "timestamp": 1701190990.28927,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_89.png",
+    "timestamp": 1701190992.919999,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_2.png",
+    "timestamp": 1701190993.9618702,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_59.png",
+    "timestamp": 1701190994.839784,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_33.png",
+    "timestamp": 1701190996.395951,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_96.png",
+    "timestamp": 1701191020.7360718,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_14.png",
+    "timestamp": 1701191023.0486898,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_31.png",
+    "timestamp": 1701191024.5627022,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_79.png",
+    "timestamp": 1701191025.627392,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_32.png",
+    "timestamp": 1701191028.475786,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_41.png",
+    "timestamp": 1701191030.0966709,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_47.png",
+    "timestamp": 1701191031.06512,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_74.png",
+    "timestamp": 1701191031.958112,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_93.png",
+    "timestamp": 1701191032.7539468,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_11.png",
+    "timestamp": 1701191033.840244,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_62.png",
+    "timestamp": 1701191034.6908412,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_1.png",
+    "timestamp": 1701191035.566467,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_37.png",
+    "timestamp": 1701191036.5910568,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_27.png",
+    "timestamp": 1701191053.9417448,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_28.png",
+    "timestamp": 1701191055.503857,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_11.png",
+    "timestamp": 1701191059.103764,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_86.png",
+    "timestamp": 1701191060.4442902,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_66.png",
+    "timestamp": 1701191064.830681,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_60.png",
+    "timestamp": 1701191082.873097,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_27.png",
+    "timestamp": 1701191083.962137,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_93.png",
+    "timestamp": 1701191087.5541859,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_2.png",
+    "timestamp": 1701191088.434863,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_86.png",
+    "timestamp": 1701191089.972606,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_82.png",
+    "timestamp": 1701191093.081532,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_31.png",
+    "timestamp": 1701191266.3066502,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_49.png",
+    "timestamp": 1701191276.934,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_65.png",
+    "timestamp": 1701191278.1299179,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_29.png",
+    "timestamp": 1701191279.19999,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_11.png",
+    "timestamp": 1701191280.134642,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_98.png",
+    "timestamp": 1701191281.172287,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_62.png",
+    "timestamp": 1701191282.118252,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_62.png",
+    "timestamp": 1701191283.21061,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_70.png",
+    "timestamp": 1701191284.426421,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_78.png",
+    "timestamp": 1701191286.183331,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_9.png",
+    "timestamp": 1701191287.119961,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_59.png",
+    "timestamp": 1701191287.967811,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_12.png",
+    "timestamp": 1701191288.795439,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_63.png",
+    "timestamp": 1701191289.605727,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_13.png",
+    "timestamp": 1701191290.412854,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_77.png",
+    "timestamp": 1701191291.3180292,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_26.png",
+    "timestamp": 1701193409.264321,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_88.png",
+    "timestamp": 1701193412.375637,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_19.png",
+    "timestamp": 1701193413.28847,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_65.png",
+    "timestamp": 1701193414.2218099,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_3.png",
+    "timestamp": 1701193417.437608,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_61.png",
+    "timestamp": 1701193418.271989,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_78.png",
+    "timestamp": 1701193418.9685178,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_93.png",
+    "timestamp": 1701193419.76812,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_37.png",
+    "timestamp": 1701193420.498152,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_55.png",
+    "timestamp": 1701193421.658188,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_38.png",
+    "timestamp": 1701193422.760691,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_78.png",
+    "timestamp": 1701193423.649485,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_22.png",
+    "timestamp": 1701193424.4820092,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_42.png",
+    "timestamp": 1701193425.4160378,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_42.png",
+    "timestamp": 1701193427.012765,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_26.png",
+    "timestamp": 1701193430.476981,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_1.png",
+    "timestamp": 1701193431.4349382,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_62.png",
+    "timestamp": 1701193432.1879199,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_94.png",
+    "timestamp": 1701193437.328893,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_8.png",
+    "timestamp": 1701193438.396835,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_64.png",
+    "timestamp": 1701193439.4427001,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_7.png",
+    "timestamp": 1701193440.3102431,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_0.png",
+    "timestamp": 1701193441.2788649,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_82.png",
+    "timestamp": 1701193442.233889,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_78.png",
+    "timestamp": 1701193443.291117,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_10.png",
+    "timestamp": 1701193444.517209,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_99.png",
+    "timestamp": 1701193445.416367,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_6.png",
+    "timestamp": 1701193446.1038148,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_4.png",
+    "timestamp": 1701193447.093777,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_67.png",
+    "timestamp": 1701193447.824521,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_95.png",
+    "timestamp": 1701193448.936877,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_90.png",
+    "timestamp": 1701193450.039752,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_30.png",
+    "timestamp": 1701193451.638786,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_41.png",
+    "timestamp": 1701193452.515847,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_69.png",
+    "timestamp": 1701193453.325249,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_59.png",
+    "timestamp": 1701193455.2829099,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_55.png",
+    "timestamp": 1701193456.025884,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_25.png",
+    "timestamp": 1701193456.926064,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_92.png",
+    "timestamp": 1701193457.927231,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_42.png",
+    "timestamp": 1701193458.7033951,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_45.png",
+    "timestamp": 1701193460.120363,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_24.png",
+    "timestamp": 1701193461.20016,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_58.png",
+    "timestamp": 1701193462.1119502,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_89.png",
+    "timestamp": 1701193462.8452108,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_58.png",
+    "timestamp": 1701193463.888523,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_68.png",
+    "timestamp": 1701193464.6300218,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_3.png",
+    "timestamp": 1701193465.373172,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_18.png",
+    "timestamp": 1701193466.476456,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "CEO_46.png",
+    "timestamp": 1701193467.285256,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_76.png",
+    "timestamp": 1701193468.254022,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_44.png",
+    "timestamp": 1701193469.1202838,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_95.png",
+    "timestamp": 1701193470.053281,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_91.png",
+    "timestamp": 1701193470.807632,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_3.png",
+    "timestamp": 1701193472.2594402,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_16.png",
+    "timestamp": 1701193494.2635882,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_77.png",
+    "timestamp": 1701193494.927234,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_35.png",
+    "timestamp": 1701193496.131,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "CEO_29.png",
+    "timestamp": 1701193496.973115,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_77.png",
+    "timestamp": 1701193498.054297,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_82.png",
+    "timestamp": 1701193498.830487,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_53.png",
+    "timestamp": 1701193499.8099651,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_61.png",
+    "timestamp": 1701193500.708747,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_73.png",
+    "timestamp": 1701193501.564863,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_17.png",
+    "timestamp": 1701193502.339614,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_40.png",
+    "timestamp": 1701193503.083301,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_90.png",
+    "timestamp": 1701193504.12931,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_12.png",
+    "timestamp": 1701193504.837186,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_53.png",
+    "timestamp": 1701193505.804492,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_53.png",
+    "timestamp": 1701193506.8190122,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_57.png",
+    "timestamp": 1701193507.583179,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_24.png",
+    "timestamp": 1701193508.348511,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_86.png",
+    "timestamp": 1701193509.125504,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_20.png",
+    "timestamp": 1701193509.834147,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_51.png",
+    "timestamp": 1701193510.597436,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_50.png",
+    "timestamp": 1701193511.712524,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_25.png",
+    "timestamp": 1701193517.584255,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_38.png",
+    "timestamp": 1701193519.192439,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_7.png",
+    "timestamp": 1701193520.148427,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_98.png",
+    "timestamp": 1701193521.7340019,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_75.png",
+    "timestamp": 1701193523.1754591,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_4.png",
+    "timestamp": 1701193543.807319,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_61.png",
+    "timestamp": 1701193544.8742242,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_2.png",
+    "timestamp": 1701193545.864383,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_86.png",
+    "timestamp": 1701193550.6587038,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_1.png",
+    "timestamp": 1701194040.18903,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_54.png",
+    "timestamp": 1701194041.688738,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_11.png",
+    "timestamp": 1701194045.644576,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_89.png",
+    "timestamp": 1701194046.388391,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_90.png",
+    "timestamp": 1701194047.1405911,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_39.png",
+    "timestamp": 1701194047.895415,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_90.png",
+    "timestamp": 1701194048.581632,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_32.png",
+    "timestamp": 1701194051.04512,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "CEO_6.png",
+    "timestamp": 1701194054.3865778,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_65.png",
+    "timestamp": 1701194055.118281,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_19.png",
+    "timestamp": 1701194055.781367,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_89.png",
+    "timestamp": 1701194056.9503539,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_8.png",
+    "timestamp": 1701194057.614229,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_9.png",
+    "timestamp": 1701194058.312423,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_92.png",
+    "timestamp": 1701194058.9422028,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_75.png",
+    "timestamp": 1701194060.6520069,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_86.png",
+    "timestamp": 1701194061.888661,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_37.png",
+    "timestamp": 1701194062.721659,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_79.png",
+    "timestamp": 1701194063.7011452,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_2.png",
+    "timestamp": 1701194064.680226,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_84.png",
+    "timestamp": 1701194065.4212852,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_91.png",
+    "timestamp": 1701194068.166259,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_84.png",
+    "timestamp": 1701194069.4384809,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_26.png",
+    "timestamp": 1701194070.5859342,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_52.png",
+    "timestamp": 1701194071.496971,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_76.png",
+    "timestamp": 1701194072.417602,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_99.png",
+    "timestamp": 1701194073.1605089,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_13.png",
+    "timestamp": 1701194074.782412,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_13.png",
+    "timestamp": 1701194075.785959,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_42.png",
+    "timestamp": 1701194076.931016,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_60.png",
+    "timestamp": 1701194096.706259,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_83.png",
+    "timestamp": 1701194098.710902,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_76.png",
+    "timestamp": 1701194102.399414,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_15.png",
+    "timestamp": 1701194103.3910038,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_46.png",
+    "timestamp": 1701194104.5497012,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_68.png",
+    "timestamp": 1701194105.337069,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_83.png",
+    "timestamp": 1701194106.471773,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_28.png",
+    "timestamp": 1701194107.958671,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_45.png",
+    "timestamp": 1701194110.027744,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_97.png",
+    "timestamp": 1701194111.434422,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_71.png",
+    "timestamp": 1701194112.3568819,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_67.png",
+    "timestamp": 1701194113.976925,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_83.png",
+    "timestamp": 1701194115.1916869,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_98.png",
+    "timestamp": 1701194117.238852,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_59.png",
+    "timestamp": 1701194118.295826,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_34.png",
+    "timestamp": 1701194119.195071,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_58.png",
+    "timestamp": 1701194119.971751,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_86.png",
+    "timestamp": 1701194122.5492868,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_34.png",
+    "timestamp": 1701194898.528524,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_33.png",
+    "timestamp": 1701194899.5764852,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_3.png",
+    "timestamp": 1701194901.892768,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_26.png",
+    "timestamp": 1701194902.557545,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_5.png",
+    "timestamp": 1701194903.199456,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_74.png",
+    "timestamp": 1701194903.795813,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_79.png",
+    "timestamp": 1701194904.3786528,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_44.png",
+    "timestamp": 1701194904.999229,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_66.png",
+    "timestamp": 1701194905.605085,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_16.png",
+    "timestamp": 1701194907.215658,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_68.png",
+    "timestamp": 1701194910.410329,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_38.png",
+    "timestamp": 1701194914.22282,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_20.png",
+    "timestamp": 1701194915.43899,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_91.png",
+    "timestamp": 1701194916.281873,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_88.png",
+    "timestamp": 1701194917.340378,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_43.png",
+    "timestamp": 1701194918.126661,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_52.png",
+    "timestamp": 1701194918.757643,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_26.png",
+    "timestamp": 1701194919.342647,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_58.png",
+    "timestamp": 1701194920.681972,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "CEO_25.png",
+    "timestamp": 1701194921.8058891,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_46.png",
+    "timestamp": 1701194927.665055,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_21.png",
+    "timestamp": 1701194929.0389729,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_21.png",
+    "timestamp": 1701194929.838677,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_17.png",
+    "timestamp": 1701194930.6256819,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_98.png",
+    "timestamp": 1701194932.279499,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_12.png",
+    "timestamp": 1701194936.508703,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "CEO_5.png",
+    "timestamp": 1701194937.5213661,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_11.png",
+    "timestamp": 1701195608.4612968,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_61.png",
+    "timestamp": 1701195609.723003,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_88.png",
+    "timestamp": 1701195610.847643,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_29.png",
+    "timestamp": 1701195611.487464,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_65.png",
+    "timestamp": 1701195612.0863411,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_81.png",
+    "timestamp": 1701195612.8047,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_56.png",
+    "timestamp": 1701195613.5135128,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_85.png",
+    "timestamp": 1701195614.1763752,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_21.png",
+    "timestamp": 1701195614.8279161,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_19.png",
+    "timestamp": 1701195615.446719,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_57.png",
+    "timestamp": 1701195616.0681758,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_30.png",
+    "timestamp": 1701195616.706899,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_51.png",
+    "timestamp": 1701195617.597904,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_73.png",
+    "timestamp": 1701195618.286929,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_29.png",
+    "timestamp": 1701195618.891598,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_39.png",
+    "timestamp": 1701195619.497994,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_39.png",
+    "timestamp": 1701195620.072403,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_21.png",
+    "timestamp": 1701195620.713036,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_96.png",
+    "timestamp": 1701195622.0523698,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_39.png",
+    "timestamp": 1701195622.9519491,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_24.png",
+    "timestamp": 1701195623.6488829,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_95.png",
+    "timestamp": 1701195624.3238678,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_72.png",
+    "timestamp": 1701195624.943897,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_37.png",
+    "timestamp": 1701195625.511984,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_80.png",
+    "timestamp": 1701195626.1477299,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_91.png",
+    "timestamp": 1701195626.709249,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_93.png",
+    "timestamp": 1701195628.2857,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_7.png",
+    "timestamp": 1701195629.0499609,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_3.png",
+    "timestamp": 1701195629.666656,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_5.png",
+    "timestamp": 1701195630.343969,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_68.png",
+    "timestamp": 1701195633.728163,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_8.png",
+    "timestamp": 1701195636.328674,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_10.png",
+    "timestamp": 1701195637.104222,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_37.png",
+    "timestamp": 1701195637.723467,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_32.png",
+    "timestamp": 1701195638.2967832,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_52.png",
+    "timestamp": 1701195639.658645,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_97.png",
+    "timestamp": 1701195640.512395,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_88.png",
+    "timestamp": 1701195641.44659,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_0.png",
+    "timestamp": 1701195643.966273,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_85.png",
+    "timestamp": 1701195644.732372,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_66.png",
+    "timestamp": 1701195646.071105,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_60.png",
+    "timestamp": 1701195647.9258199,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_89.png",
+    "timestamp": 1701195648.668612,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_87.png",
+    "timestamp": 1701195651.291013,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_43.png",
+    "timestamp": 1701195652.123452,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_85.png",
+    "timestamp": 1701195653.214623,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_37.png",
+    "timestamp": 1701195654.0808089,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_29.png",
+    "timestamp": 1701195655.070506,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_30.png",
+    "timestamp": 1701195656.2301068,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_24.png",
+    "timestamp": 1701195659.132542,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_31.png",
+    "timestamp": 1701195659.8966131,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_43.png",
+    "timestamp": 1701195663.395791,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_35.png",
+    "timestamp": 1701195664.644881,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "CEO_82.png",
+    "timestamp": 1701195665.410215,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_0.png",
+    "timestamp": 1701195666.240478,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "CEO_1.png",
+    "timestamp": 1701195666.9841821,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_32.png",
+    "timestamp": 1701195667.883114,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_83.png",
+    "timestamp": 1701195668.85465,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_21.png",
+    "timestamp": 1701195669.628078,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_48.png",
+    "timestamp": 1701195670.504226,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_75.png",
+    "timestamp": 1701195671.304508,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_16.png",
+    "timestamp": 1701195672.6995142,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_15.png",
+    "timestamp": 1701195673.4621499,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_22.png",
+    "timestamp": 1701195674.533174,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_40.png",
+    "timestamp": 1701195675.433486,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_13.png",
+    "timestamp": 1701195676.884523,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_53.png",
+    "timestamp": 1701195677.87275,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_92.png",
+    "timestamp": 1701195679.807683,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_84.png",
+    "timestamp": 1701195680.765216,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_7.png",
+    "timestamp": 1701195681.46288,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_16.png",
+    "timestamp": 1701195682.137554,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_94.png",
+    "timestamp": 1701195707.596201,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_40.png",
+    "timestamp": 1701195708.2960691,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_55.png",
+    "timestamp": 1701195712.9385831,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_79.png",
+    "timestamp": 1701195713.647336,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_40.png",
+    "timestamp": 1701195714.684144,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_59.png",
+    "timestamp": 1701195715.8411741,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_8.png",
+    "timestamp": 1701195716.697182,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_88.png",
+    "timestamp": 1701195717.530142,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_80.png",
+    "timestamp": 1701195718.203989,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_5.png",
+    "timestamp": 1701195718.992528,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_50.png",
+    "timestamp": 1701195719.760739,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_64.png",
+    "timestamp": 1701195827.2047958,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_64.png",
+    "timestamp": 1701195834.4945989,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_70.png",
+    "timestamp": 1701195835.47383,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_48.png",
+    "timestamp": 1701195836.113482,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_33.png",
+    "timestamp": 1701195839.0714471,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_2.png",
+    "timestamp": 1701195840.693582,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_57.png",
+    "timestamp": 1701195841.6046379,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_57.png",
+    "timestamp": 1701195842.86481,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_30.png",
+    "timestamp": 1701195843.620472,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_14.png",
+    "timestamp": 1701195844.417736,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_18.png",
+    "timestamp": 1701195848.1865861,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_96.png",
+    "timestamp": 1701195849.7498,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_47.png",
+    "timestamp": 1701195850.605879,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_41.png",
+    "timestamp": 1701195851.5501802,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_74.png",
+    "timestamp": 1701195855.397383,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_67.png",
+    "timestamp": 1701195856.622321,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_65.png",
+    "timestamp": 1701195857.601482,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_20.png",
+    "timestamp": 1701195864.970819,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_69.png",
+    "timestamp": 1701195865.814522,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_53.png",
+    "timestamp": 1701195866.974713,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_24.png",
+    "timestamp": 1701195867.783328,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_17.png",
+    "timestamp": 1701195868.9639978,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_26.png",
+    "timestamp": 1701195870.066644,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_9.png",
+    "timestamp": 1701195871.268908,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_43.png",
+    "timestamp": 1701195872.868746,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_30.png",
+    "timestamp": 1701195900.374227,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_80.png",
+    "timestamp": 1701195901.2278872,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_89.png",
+    "timestamp": 1701195901.868771,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_21.png",
+    "timestamp": 1701195903.1505651,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_7.png",
+    "timestamp": 1701195904.750438,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_60.png",
+    "timestamp": 1701195906.7977889,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_81.png",
+    "timestamp": 1701195907.7425861,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_33.png",
+    "timestamp": 1701195909.4076018,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_35.png",
+    "timestamp": 1701195910.565304,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_61.png",
+    "timestamp": 1701195911.352839,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_70.png",
+    "timestamp": 1701195913.602494,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_36.png",
+    "timestamp": 1701195915.222409,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_23.png",
+    "timestamp": 1701195916.000191,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_5.png",
+    "timestamp": 1701195917.2367518,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_46.png",
+    "timestamp": 1701195918.228052,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_45.png",
+    "timestamp": 1701195919.406635,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_6.png",
+    "timestamp": 1701195920.252629,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_6.png",
+    "timestamp": 1701195921.366977,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_95.png",
+    "timestamp": 1701195923.019714,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_73.png",
+    "timestamp": 1701195923.818107,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_52.png",
+    "timestamp": 1701195927.947818,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_46.png",
+    "timestamp": 1701195928.824617,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_92.png",
+    "timestamp": 1701195929.8585112,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_56.png",
+    "timestamp": 1701195931.05171,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_49.png",
+    "timestamp": 1701195933.020928,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_66.png",
+    "timestamp": 1701195933.956112,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_72.png",
+    "timestamp": 1701195934.990196,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_79.png",
+    "timestamp": 1701195935.978168,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_64.png",
+    "timestamp": 1701195936.8118458,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_40.png",
+    "timestamp": 1701195937.645066,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_58.png",
+    "timestamp": 1701195938.510498,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_48.png",
+    "timestamp": 1701195939.693465,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_42.png",
+    "timestamp": 1701195952.7178261,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_28.png",
+    "timestamp": 1701195953.471328,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_61.png",
+    "timestamp": 1701195954.732328,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_60.png",
+    "timestamp": 1701195955.9258912,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_38.png",
+    "timestamp": 1701195965.500254,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_14.png",
+    "timestamp": 1701195968.5370722,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_48.png",
+    "timestamp": 1701195969.684573,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_58.png",
+    "timestamp": 1701195970.459265,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_10.png",
+    "timestamp": 1701195971.54092,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_2.png",
+    "timestamp": 1701195972.800384,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_22.png",
+    "timestamp": 1701195974.060684,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_45.png",
+    "timestamp": 1701195975.266571,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_7.png",
+    "timestamp": 1701195976.063083,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_33.png",
+    "timestamp": 1701195977.0641432,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_95.png",
+    "timestamp": 1701195977.940816,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_71.png",
+    "timestamp": 1701195978.9306319,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_95.png",
+    "timestamp": 1701195979.9318998,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_81.png",
+    "timestamp": 1701195981.777194,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_94.png",
+    "timestamp": 1701195982.778003,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_99.png",
+    "timestamp": 1701195983.6095412,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_43.png",
+    "timestamp": 1701195991.970311,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_45.png",
+    "timestamp": 1701195993.050134,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_75.png",
+    "timestamp": 1701195993.875742,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_10.png",
+    "timestamp": 1701195994.567921,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_67.png",
+    "timestamp": 1701195996.075685,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_36.png",
+    "timestamp": 1701195997.233182,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "CEO_18.png",
+    "timestamp": 1701195998.123861,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_90.png",
+    "timestamp": 1701195998.808887,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_77.png",
+    "timestamp": 1701195999.494386,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_50.png",
+    "timestamp": 1701196000.203798,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_14.png",
+    "timestamp": 1701196001.7567942,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_65.png",
+    "timestamp": 1701196003.760235,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_47.png",
+    "timestamp": 1701196004.918605,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_87.png",
+    "timestamp": 1701196005.863821,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_91.png",
+    "timestamp": 1701196006.887543,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_32.png",
+    "timestamp": 1701196008.350368,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_35.png",
+    "timestamp": 1701196010.2398489,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_64.png",
+    "timestamp": 1701196011.050213,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_25.png",
+    "timestamp": 1701196012.141762,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_10.png",
+    "timestamp": 1701196012.996771,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_0.png",
+    "timestamp": 1701196013.738923,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_49.png",
+    "timestamp": 1701196014.525876,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_74.png",
+    "timestamp": 1701196015.638268,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "CEO_77.png",
+    "timestamp": 1701196016.5290911,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_48.png",
+    "timestamp": 1701196017.360874,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_34.png",
+    "timestamp": 1701196018.196531,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_18.png",
+    "timestamp": 1701196018.981117,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_25.png",
+    "timestamp": 1701196021.90622,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_97.png",
+    "timestamp": 1701196022.580853,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_57.png",
+    "timestamp": 1701196023.278642,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_98.png",
+    "timestamp": 1701196024.032371,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_99.png",
+    "timestamp": 1701196024.818291,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_36.png",
+    "timestamp": 1701196025.584717,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_91.png",
+    "timestamp": 1701196026.316231,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_85.png",
+    "timestamp": 1701196027.092772,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_66.png",
+    "timestamp": 1701196028.993686,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_81.png",
+    "timestamp": 1701196030.116585,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "CEO_44.png",
+    "timestamp": 1701196031.004769,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_55.png",
+    "timestamp": 1701196031.828512,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_85.png",
+    "timestamp": 1701196032.5592692,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_4.png",
+    "timestamp": 1701196033.4844108,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_98.png",
+    "timestamp": 1701196035.349151,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_88.png",
+    "timestamp": 1701196036.4848251,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_13.png",
+    "timestamp": 1701196037.4081988,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_15.png",
+    "timestamp": 1701196038.1049118,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_44.png",
+    "timestamp": 1701196038.8478332,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_57.png",
+    "timestamp": 1701196039.806848,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_84.png",
+    "timestamp": 1701196040.55824,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_14.png",
+    "timestamp": 1701196041.648798,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_85.png",
+    "timestamp": 1701196042.436807,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_53.png",
+    "timestamp": 1701196043.325417,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_49.png",
+    "timestamp": 1701196044.0003898,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_19.png",
+    "timestamp": 1701196044.9370508,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_63.png",
+    "timestamp": 1701196045.564228,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_71.png",
+    "timestamp": 1701196051.650794,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_30.png",
+    "timestamp": 1701196052.325643,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_41.png",
+    "timestamp": 1701196053.484755,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_18.png",
+    "timestamp": 1701196054.338202,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_20.png",
+    "timestamp": 1701196055.2281039,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_97.png",
+    "timestamp": 1701196056.049452,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_27.png",
+    "timestamp": 1701196056.836158,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_87.png",
+    "timestamp": 1701196058.0633621,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_90.png",
+    "timestamp": 1701196059.267668,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_20.png",
+    "timestamp": 1701196059.850057,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_75.png",
+    "timestamp": 1701196060.518153,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_75.png",
+    "timestamp": 1701196061.2231522,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_97.png",
+    "timestamp": 1701196062.292861,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_65.png",
+    "timestamp": 1701196063.74267,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_99.png",
+    "timestamp": 1701196064.5212128,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_29.png",
+    "timestamp": 1701196065.318809,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_7.png",
+    "timestamp": 1701196066.117749,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_24.png",
+    "timestamp": 1701196067.118838,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_83.png",
+    "timestamp": 1701196067.8052962,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_13.png",
+    "timestamp": 1701196068.7973828,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_60.png",
+    "timestamp": 1701196069.862515,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_20.png",
+    "timestamp": 1701196073.3955772,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_9.png",
+    "timestamp": 1701196074.2064588,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_15.png",
+    "timestamp": 1701196074.9600792,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_52.png",
+    "timestamp": 1701196075.6450481,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_1.png",
+    "timestamp": 1701196076.5917702,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_11.png",
+    "timestamp": 1701196077.3002481,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_80.png",
+    "timestamp": 1701196077.952461,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_12.png",
+    "timestamp": 1701196078.570299,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_53.png",
+    "timestamp": 1701196079.447008,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_34.png",
+    "timestamp": 1701196080.066536,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_47.png",
+    "timestamp": 1701196083.00368,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_46.png",
+    "timestamp": 1701196083.648684,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_94.png",
+    "timestamp": 1701196084.329777,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_51.png",
+    "timestamp": 1701196084.949484,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_14.png",
+    "timestamp": 1701196085.90583,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_4.png",
+    "timestamp": 1701196086.649479,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_34.png",
+    "timestamp": 1701196087.5364878,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_76.png",
+    "timestamp": 1701196088.302042,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_51.png",
+    "timestamp": 1701196089.010129,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_4.png",
+    "timestamp": 1701196089.720006,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_42.png",
+    "timestamp": 1701196090.5055842,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_1.png",
+    "timestamp": 1701196091.114552,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_31.png",
+    "timestamp": 1701196091.69922,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_36.png",
+    "timestamp": 1701196092.296245,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_25.png",
+    "timestamp": 1701196092.948075,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_73.png",
+    "timestamp": 1701196093.849231,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_23.png",
+    "timestamp": 1701196094.5791411,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_61.png",
+    "timestamp": 1701196095.275867,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_72.png",
+    "timestamp": 1701196096.119292,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_21.png",
+    "timestamp": 1701196096.897544,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_64.png",
+    "timestamp": 1701196097.605581,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_56.png",
+    "timestamp": 1701196098.245769,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_63.png",
+    "timestamp": 1701196099.123577,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_27.png",
+    "timestamp": 1701196099.788634,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_32.png",
+    "timestamp": 1701196101.3299,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_55.png",
+    "timestamp": 1701196102.059923,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_37.png",
+    "timestamp": 1701196102.803914,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_54.png",
+    "timestamp": 1701196103.7494771,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_27.png",
+    "timestamp": 1701196104.592122,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_6.png",
+    "timestamp": 1701196105.3457038,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_45.png",
+    "timestamp": 1701196118.2156549,
+    "worker": "McKelvie S",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "CEO_11.png",
+    "timestamp": 1701196120.0821178,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_95.png",
+    "timestamp": 1701196122.2205539,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_59.png",
+    "timestamp": 1701196123.199199,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_54.png",
+    "timestamp": 1701196123.8409941,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_69.png",
+    "timestamp": 1701196124.504864,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_96.png",
+    "timestamp": 1701196125.1346,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_23.png",
+    "timestamp": 1701196125.7297761,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_31.png",
+    "timestamp": 1701196126.338516,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_36.png",
+    "timestamp": 1701196126.9553778,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_51.png",
+    "timestamp": 1701196127.585286,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_93.png",
+    "timestamp": 1701196128.755244,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_27.png",
+    "timestamp": 1701196129.510668,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_51.png",
+    "timestamp": 1701196130.623889,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_49.png",
+    "timestamp": 1701196131.434829,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_45.png",
+    "timestamp": 1701196132.1315079,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_3.png",
+    "timestamp": 1701196133.0883572,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_99.png",
+    "timestamp": 1701196134.0665119,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_9.png",
+    "timestamp": 1701196134.785286,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_54.png",
+    "timestamp": 1701196135.7878,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_90.png",
+    "timestamp": 1701196136.733574,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_83.png",
+    "timestamp": 1701196137.61054,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_75.png",
+    "timestamp": 1701196138.7350972,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_84.png",
+    "timestamp": 1701196139.465798,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_97.png",
+    "timestamp": 1701196140.1933491,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_40.png",
+    "timestamp": 1701196141.097395,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_88.png",
+    "timestamp": 1701196142.560076,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_56.png",
+    "timestamp": 1701196143.2902021,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_80.png",
+    "timestamp": 1701196143.977605,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_73.png",
+    "timestamp": 1701196144.641421,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_68.png",
+    "timestamp": 1701196145.281893,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_62.png",
+    "timestamp": 1701196145.934592,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_43.png",
+    "timestamp": 1701196146.575316,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_5.png",
+    "timestamp": 1701196147.612011,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_56.png",
+    "timestamp": 1701196148.229784,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_94.png",
+    "timestamp": 1701196149.389297,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_66.png",
+    "timestamp": 1701196150.097352,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_23.png",
+    "timestamp": 1701196150.750114,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_56.png",
+    "timestamp": 1701196152.0200992,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_92.png",
+    "timestamp": 1701196153.088562,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_80.png",
+    "timestamp": 1701196154.0902772,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_32.png",
+    "timestamp": 1701196154.713558,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_79.png",
+    "timestamp": 1701196155.5078359,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_72.png",
+    "timestamp": 1701196156.272623,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_39.png",
+    "timestamp": 1701196157.11677,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_92.png",
+    "timestamp": 1701196157.814176,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_84.png",
+    "timestamp": 1701196158.9385002,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_67.png",
+    "timestamp": 1701196159.54544,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_28.png",
+    "timestamp": 1701196160.15394,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_71.png",
+    "timestamp": 1701196160.784992,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_91.png",
+    "timestamp": 1701196161.3915021,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_76.png",
+    "timestamp": 1701196162.517927,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_82.png",
+    "timestamp": 1701196163.158439,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_81.png",
+    "timestamp": 1701196163.7760909,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_69.png",
+    "timestamp": 1701196164.440303,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_70.png",
+    "timestamp": 1701196165.440674,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_77.png",
+    "timestamp": 1701196165.9917939,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_89.png",
+    "timestamp": 1701196166.915637,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_14.png",
+    "timestamp": 1701196167.455605,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_67.png",
+    "timestamp": 1701196168.0291069,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_6.png",
+    "timestamp": 1701196168.626234,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_54.png",
+    "timestamp": 1701196170.145536,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_85.png",
+    "timestamp": 1701196171.0786119,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_36.png",
+    "timestamp": 1701196171.86639,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_33.png",
+    "timestamp": 1701196173.025474,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_72.png",
+    "timestamp": 1701196173.7769978,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_43.png",
+    "timestamp": 1701196175.396924,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_71.png",
+    "timestamp": 1701196176.263586,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_55.png",
+    "timestamp": 1701196177.152309,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_63.png",
+    "timestamp": 1701196177.998512,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_60.png",
+    "timestamp": 1701196180.1345532,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_5.png",
+    "timestamp": 1701196181.136275,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_59.png",
+    "timestamp": 1701196181.878842,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_50.png",
+    "timestamp": 1701196188.222938,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_81.png",
+    "timestamp": 1701196190.3612878,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_79.png",
+    "timestamp": 1701196191.056652,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_16.png",
+    "timestamp": 1701196192.8115861,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_86.png",
+    "timestamp": 1701196193.567307,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_87.png",
+    "timestamp": 1701196194.511818,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_6.png",
+    "timestamp": 1701196576.387029,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_50.png",
+    "timestamp": 1701196577.041353,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_46.png",
+    "timestamp": 1701196578.256426,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_82.png",
+    "timestamp": 1701196579.35878,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_93.png",
+    "timestamp": 1701196580.0773609,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_83.png",
+    "timestamp": 1701196581.427679,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_12.png",
+    "timestamp": 1701196582.271146,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_23.png",
+    "timestamp": 1701196582.923598,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_2.png",
+    "timestamp": 1701196583.58805,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_28.png",
+    "timestamp": 1701196584.3185978,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "CEO_70.png",
+    "timestamp": 1701196585.051,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_41.png",
+    "timestamp": 1701196585.680983,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_68.png",
+    "timestamp": 1701196586.862972,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_54.png",
+    "timestamp": 1701196587.70628,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_0.png",
+    "timestamp": 1701196588.3339899,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_10.png",
+    "timestamp": 1701196589.054322,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_39.png",
+    "timestamp": 1701196590.890512,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_18.png",
+    "timestamp": 1701196591.607923,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_17.png",
+    "timestamp": 1701196592.384233,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_54.png",
+    "timestamp": 1701196593.6130528,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_68.png",
+    "timestamp": 1701196594.467674,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_25.png",
+    "timestamp": 1701196595.185663,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_22.png",
+    "timestamp": 1701196595.951807,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_9.png",
+    "timestamp": 1701196596.94292,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_8.png",
+    "timestamp": 1701196598.01986,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_17.png",
+    "timestamp": 1701196598.978729,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_19.png",
+    "timestamp": 1701196600.050635,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_63.png",
+    "timestamp": 1701196600.936707,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_62.png",
+    "timestamp": 1701196601.734377,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_15.png",
+    "timestamp": 1701196602.645705,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_27.png",
+    "timestamp": 1701196603.421988,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_92.png",
+    "timestamp": 1701196604.153148,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_69.png",
+    "timestamp": 1701196604.906812,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_66.png",
+    "timestamp": 1701196605.761538,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_94.png",
+    "timestamp": 1701196606.673316,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_24.png",
+    "timestamp": 1701196607.436878,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_76.png",
+    "timestamp": 1701196608.6424901,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_80.png",
+    "timestamp": 1701196609.496075,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_28.png",
+    "timestamp": 1701196610.284151,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_35.png",
+    "timestamp": 1701196611.117397,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_93.png",
+    "timestamp": 1701196611.9155462,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_10.png",
+    "timestamp": 1701196612.702592,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_8.png",
+    "timestamp": 1701196613.535664,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_35.png",
+    "timestamp": 1701196623.4895139,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_76.png",
+    "timestamp": 1701196624.3108459,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_12.png",
+    "timestamp": 1701196625.429142,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_52.png",
+    "timestamp": 1701196629.3082628,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_96.png",
+    "timestamp": 1701196630.2978828,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_87.png",
+    "timestamp": 1701196631.625396,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_30.png",
+    "timestamp": 1701196632.682988,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_29.png",
+    "timestamp": 1701196633.660856,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_99.png",
+    "timestamp": 1701196635.2034361,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_8.png",
+    "timestamp": 1701196636.169374,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_44.png",
+    "timestamp": 1701196637.137737,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_13.png",
+    "timestamp": 1701196638.059961,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_1.png",
+    "timestamp": 1701196639.0374231,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_19.png",
+    "timestamp": 1701196639.9393668,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_15.png",
+    "timestamp": 1701196640.57972,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_19.png",
+    "timestamp": 1701196641.559326,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_16.png",
+    "timestamp": 1701196642.267793,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_56.png",
+    "timestamp": 1701196643.021458,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_96.png",
+    "timestamp": 1701196644.067755,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_18.png",
+    "timestamp": 1701196644.810101,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_87.png",
+    "timestamp": 1701196645.585574,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_22.png",
+    "timestamp": 1701196646.631994,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_41.png",
+    "timestamp": 1701196647.54356,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_69.png",
+    "timestamp": 1701196748.74687,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_57.png",
+    "timestamp": 1701196750.614958,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_48.png",
+    "timestamp": 1701196751.951466,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_69.png",
+    "timestamp": 1701196752.8114371,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "CEO_51.png",
+    "timestamp": 1701196753.7761831,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_3.png",
+    "timestamp": 1701196754.4961762,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_77.png",
+    "timestamp": 1701196755.1710489,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_4.png",
+    "timestamp": 1701196755.8112168,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_48.png",
+    "timestamp": 1701196756.4533172,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_78.png",
+    "timestamp": 1701196757.038435,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_0.png",
+    "timestamp": 1701196757.6116748,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_47.png",
+    "timestamp": 1701196758.298788,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_23.png",
+    "timestamp": 1701196758.995244,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_40.png",
+    "timestamp": 1701196760.424791,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_73.png",
+    "timestamp": 1701196761.5605838,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_84.png",
+    "timestamp": 1701196778.5598028,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_15.png",
+    "timestamp": 1701196779.785867,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "software_engineer_70.png",
+    "timestamp": 1701196780.922542,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_0.png",
+    "timestamp": 1701196782.697952,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_58.png",
+    "timestamp": 1701196784.04893,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_34.png",
+    "timestamp": 1701196868.826147,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_50.png",
+    "timestamp": 1701197396.049897,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_34.png",
+    "timestamp": 1701197396.863613,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_71.png",
+    "timestamp": 1701197397.501076,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_47.png",
+    "timestamp": 1701197398.11984,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_74.png",
+    "timestamp": 1701197399.382111,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_63.png",
+    "timestamp": 1701197400.07823,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_81.png",
+    "timestamp": 1701197400.629217,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_31.png",
+    "timestamp": 1701197401.1278331,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_22.png",
+    "timestamp": 1701197402.441887,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "CEO_71.png",
+    "timestamp": 1701197403.1383731,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_38.png",
+    "timestamp": 1701197403.780575,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_44.png",
+    "timestamp": 1701197404.7129989,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_74.png",
+    "timestamp": 1701197405.344316,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_78.png",
+    "timestamp": 1701197406.198068,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_16.png",
+    "timestamp": 1701197407.065303,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_63.png",
+    "timestamp": 1701197410.328147,
+    "worker": "McKelvie S",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "nurse_64.png",
+    "timestamp": 1701197411.7456288,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_96.png",
+    "timestamp": 1701197412.580853,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "pharmacist_38.png",
+    "timestamp": 1701197413.3413382,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "politician_87.png",
+    "timestamp": 1701197414.22954,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_33.png",
+    "timestamp": 1701197415.0858428,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_52.png",
+    "timestamp": 1701197415.8511481,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_72.png",
+    "timestamp": 1701197416.762499,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "nurse_49.png",
+    "timestamp": 1701197417.584408,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_28.png",
+    "timestamp": 1701197418.371883,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_62.png",
+    "timestamp": 1701197419.147528,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_94.png",
+    "timestamp": 1701197419.8230028,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_26.png",
+    "timestamp": 1701197420.793658,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_38.png",
+    "timestamp": 1701197421.43017,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_47.png",
+    "timestamp": 1701197422.342083,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "judge_23.png",
+    "timestamp": 1701197422.961919,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_31.png",
+    "timestamp": 1701197423.738261,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_74.png",
+    "timestamp": 1701197425.290078,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_82.png",
+    "timestamp": 1701197425.956469,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "nurse_39.png",
+    "timestamp": 1701197427.259273,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_67.png",
+    "timestamp": 1701197427.887655,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_72.png",
+    "timestamp": 1701197429.8223,
+    "worker": "McKelvie S",
+    "labels": ["women (A)"]
+  },
+  {
+    "image": "lawyer_78.png",
+    "timestamp": 1701197430.452676,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_20.png",
+    "timestamp": 1701197431.0053551,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_55.png",
+    "timestamp": 1701197431.500597,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_44.png",
+    "timestamp": 1701197432.051722,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "CEO_42.png",
+    "timestamp": 1701197436.113064,
+    "worker": "McKelvie S",
+    "labels": ["unclear (F)"]
+  },
+  {
+    "image": "CEO_97.png",
+    "timestamp": 1701197438.081551,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_17.png",
+    "timestamp": 1701197439.274755,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_17.png",
+    "timestamp": 1701197439.947996,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "software_engineer_12.png",
+    "timestamp": 1701197440.7022989,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_36.png",
+    "timestamp": 1701197441.7040918,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "judge_41.png",
+    "timestamp": 1701197442.491097,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_70.png",
+    "timestamp": 1701197443.402178,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "pharmacist_50.png",
+    "timestamp": 1701197444.1562722,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "politician_4.png",
+    "timestamp": 1701197447.5534568,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_73.png",
+    "timestamp": 1701197448.22895,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  },
+  {
+    "image": "lawyer_35.png",
+    "timestamp": 1701197448.994508,
+    "worker": "McKelvie S",
+    "labels": ["men (S)"]
+  }
+]
